@@ -1,6 +1,0 @@
-channel_id,channel_name,channel_type,is_active
-CH03,Marketplace  ,NULL,Yes
-CH05, Wholesale,B2B,1
-CH02,Mobile App  ,Digital,y
-CH01,Online Store,Digital,1
-CH04,Retail  Store,Physical,Y

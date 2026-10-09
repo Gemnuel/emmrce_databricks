@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,phone,country_code,signup_date,segment
+C00521,Aisha,Sharma,AISHA.SHARMA909@OUTLOOK.COM,(784) 100-5598,BRA,2024-07-25,Consumer
+C00914,yuki  ,Brown  ,yuki.brown311@yahoo.com,(480) 998-4190,CHN,2025-09-11,Student
+C00713,Sofia,SMITH,sofia.smith121@yahoo.com,(927) 156-5930, FRA,2022-09-23,Small Business
+C00150,LUIS,Silva,LUIS.SILVA230@OUTLOOK.COM,+54-926-4944744, GBR,2023/01/28,corporate  
+C00383,Ahmed,Silva,ahmed.silva87@yahoo.com,+19-960-2129757,CHN,2025-06-18,Student
+C00928,  julia ,Kim,JULIA.KIM446@GMAIL.COM,,TWN,2025-12-09,Student
+C00893,Yuki,Wang,YUKI.WANG826@YAHOO.COM,,ISR,2022-07-07,Small Business
+C00710,Ethan,Johnson,ETHAN.JOHNSON274@GMAIL.COM,8596809497, VNM,2023-11-20,Consumer
+C00901,liam,Reyes,LIAM.REYES932@OUTLOOK.COM,NULL,MEX,,Consumer
+C00372,James,  Davis ,JAMES.DAVIS415@COMPANY.COM,(323) 614-6398,SGP,2025-08-16,Corporate
+C00782,ROSA,Nguyen,rosa.nguyen879@outlook.com,N/A,HKG,2022-12-05,Student
+C00274,Aisha, Hassan,aisha.hassan57 @outlook.com,1637790413,FRA,08-26-2024,Student
+C00580,Yuki,Zhang,yuki.zhang742 @gmail.com,9490903327,IND,2022-08-12,Student  
+C00749, Mohammed,reyes,mohammed.reyes173@company.com,(546) 733-9244,AUT,2022-10-30,Corporate
+C00950,  aisha ,Brown  ,aisha.brown95 @yahoo.com,null,zaf,2025-04-06, small business
+C00471,Ethan,davis,ethan.davis289@yahoo.com,(569) 121-6928,KOR,2024-04-16,
+C00201,olivia,  Reyes ,olivia.reyes154@gmail.com,+72-161-3208458,ARE,2024-09-01,Small Business
+C00495,Mei,Nguyen,mei.nguyen702@gmail.com,5253551610,USA,2025-02-12,small business
+C00649,aisha,PARK,aisha.park519@company.com,3117817163,ITA,04-11-2023,student  
+C00607,Aisha,Rossi,AISHA.ROSSI747@GMAIL.COM  ,+41-937-1304647,kor,2023-10-14,Consumer
+C00564, CHEN,Smith,chen.smith483@gmail.com,9943277531,IND,2023-03-09,Consumer
+C00352,sofia, GARCIA,SOFIA.GARCIA724@YAHOO.COM,(898) 401-3582,POL,2024-09-05,small business  
+C00815, James,PATEL,james.patel111@gmail.com,+47-130-3999265,TWN,28/01/2025,STUDENT
+C00748,Anna  ,  Hassan ,anna.hassan120 @company.com,,GBR,2025-04-17,Student
+C00003,ROSA,miller,rosa.miller664 @gmail.com,(317) 254-7503,CHE,09/09/2022,student
+C00592,  Ethan ,garcia  ,ethan.garcia38 @outlook.com,6765749477,GBR,10-13-2023,Consumer
+C00865,CHEN, Ali,CHEN.ALI540@COMPANY.COM,+76-118-2743217,MYS  ,2024-07-17,Small Business
+C00918,Luis,Lopez,luis.lopez448@yahoo.com,(497) 660-4970,GBR,2025-05-02,corporate
+C00307,Wei,Lopez,WEI.LOPEZ295@OUTLOOK.COM,(342) 897-3345,JPN,2025-06-22,Small Business
+C00844,James,Sharma,james.sharma864@company.com,(196) 771-3680,COL,2023-08-03,Student
+C00094,WEI, Rossi,wei.rossi253@outlook.com,(770) 428-9639,IND,2023-07-17,Corporate
+C00868,RAJ,Muller  ,  raj.muller670@yahoo.com ,+54-721-8216069,ita,10-12-2025,Small Business
+C00534,aisha,Li,AISHA.LI224@YAHOO.COM,7009619893,USA,2025-01-28,Small Business  
+C00118,Fatima,WANG,fatima.wang42@yahoo.com,2668250303,BRA,2024-12-11,Student  
+C00703,Luis,Reyes,luis.reyes850@outlook.com,(921) 883-6745,IND,2024-11-27,Small Business
+C00723,isabel,Davis,ISABEL.DAVIS445@COMPANY.COM,(363) 493-4559,USA  ,2024-11-12, Corporate
+C00348,Julia,ALI,julia.ali446@outlook.com  ,(872) 767-8875,FRA,2023-08-18,Corporate
+C00680,Aisha,Nguyen  ,aisha.nguyen936 @company.com,+53-645-8348792,USA,2023-03-30,Corporate
+C00665,Lucas,  Martin ,LUCAS.MARTIN446@COMPANY.COM,6991340184,GBR  ,2023-04-25,
+C00472, Maria,Wang,MARIA.WANG407@YAHOO.COM,(395) 619-9198,IDN  ,2024-01-02,Consumer
+C00420,Luis,Nguyen,luis.nguyen777@company.com,null,USA,2024/02/14,Corporate
+C00831,Luis,Park,luis.park328 @yahoo.com,+37-527-2179825,  USA ,10-17-2023,CONSUMER
+C00177,Rosa,Lee,rosa.lee747@gmail.com,(477) 347-9207,DEU,2025-01-09,SMALL BUSINESS
+C00519,Rosa,cruz  ,rosa.cruz432@company.com,(758) 834-1762,NZL,2024-06-01,Small Business
+C00085,Daniel,Reyes,daniel.reyes536@gmail.com,(969) 359-6875,FRA,2022-09-06,Small  Business
+C00705,,  Patel ,ethan.patel287@gmail.com,(858) 637-1702, CAN,03/08/2023, SMALL BUSINESS
+C00533,Noah,null,noah.cruz221 @gmail.com,(805) 776-3445,AUS,2023-06-16,Corporate
+C00434,Emma,Martin  ,emma.martin774 @company.com,6686457539,NLD,2022-07-24,Corporate
+C00534,aisha,Li,AISHA.LI224@YAHOO.COM,7009619893,USA,2025-01-28,Small Business  
+C00034,Anna,Sharma, anna.sharma117@outlook.com,(890) 430-5286,ZAF,20/09/2022, Small Business
+C00402,Raj,Garcia,raj.garcia244 @company.com,7425524442,IDN,"Mar 10, 2023", Student
+C00422,Sofia  ,PARK,sofia.park170@gmail.com,(822) 704-5180,,09-24-2025,Student
+C00717,hiro,Martin, hiro.martin121 @yahoo.com,9129115990,GRC,2023-01-03,Small Business
+C00319,Ethan, Sato,ethan.sato942@outlook.com,+34-246-9163900,PHL,2025-08-29,Corporate
+C00859,ahmed,HASSAN,AHMED.HASSAN592@YAHOO.COM,,USA,2023-03-25,Student
+C00281,rosa, Brown,rosa.brown283 @company.com,(231) 719-8815,MEX,"May 05, 2025",null
+C00600,Olivia,Ibrahim,olivia.ibrahim985@yahoo.com  ,+29-326-1777324,NZL  ,2024-05-13,Consumer
+C00828,Emma  ,IVANOV,emma.ivanov18@company.com,(975) 384-6656,TWN,2023-09-23,small business
+C00789,Mei,Santos,mei.santos666 @company.com,(481) 936-8763,KOR,2022-09-04,  Small Business 
+C00515,MARIA,Reyes,maria.reyes134@outlook.com,(878) 874-5085,ITA,2025-07-20,
+C00069,liam,Sharma,liam.sharma734@outlook.com,(433) 840-8859,CHN,"Aug 07, 2024",Student
+C00584,Carlos,Li  ,,1556796479,NLD,2023-06-13,Consumer  
+C00328,ahmed,Martin,AHMED.MARTIN293@COMPANY.COM,(365) 124-9375,AUS,2025-07-31,Small Business
+C00326,Wei,Cruz  ,wei.cruz855@gmail.com,+83-506-1258314,MYS,07/09/2025,Student
+C00707,Isabel  ,Cruz, isabel.cruz271@gmail.com,2408310851,PHL,2025-04-27,Consumer
+C00719,Fatima,Tanaka,fatima.tanaka810@outlook.com,8121172339,SGP,16/06/2022,CONSUMER
+C00949,KENJI  ,Garcia,kenji.garcia404  @yahoo.com,5104145971,IND,2023-08-13,student
+C00097,Olivia,Johnson,N/A,null,MEX,2024-08-24,small business  
+C00631,Raj  ,Silva,RAJ.SILVA992@COMPANY.COM,5159184344,ARE,2024-02-15,Corporate
+C00867,Kenji,Lee,kenji.lee768@gmail.com,+59-688-6314844,FRA,2025-08-29,Corporate
+C00472, Maria,Wang,MARIA.WANG407@YAHOO.COM,(395) 619-9198,IDN  ,2024-01-02,Consumer
+C00055,Kenji,Cruz,kenji.cruz442 @outlook.com,5729286078,NULL,2022-11-10,Consumer
+C00664,  Aisha ,Ibrahim,aisha.ibrahim735@gmail.com,(830) 821-8121,JPN,08-11-2022,Corporate
+C00681,EMMA,Martin  ,emma.martin978@outlook.com  ,+74-461-3737930,ARE,2022-10-28,Small Business
+C00078,Carlos,Tanaka,CARLOS.TANAKA676@GMAIL.COM,(435) 532-7140,USA,28/07/2024,CORPORATE
+C00043,Anna,Li,ANNA.LI81@YAHOO.COM,(986) 474-8636,GRC,2023-06-27,consumer
+C00325,ANNA,MULLER,anna.muller577@gmail.com  ,NULL,SWE,2024/09/12,Consumer
+C00403,Lucas,Ivanov,LUCAS.IVANOV196@OUTLOOK.COM,(701) 815-8936,USA,"Nov 06, 2022",STUDENT
+C00758,isabel,Davis,ISABEL.DAVIS977@YAHOO.COM,(933) 645-2565,RUS,2024-07-02,consumer
+C00398,  Anna ,Ivanov,anna.ivanov907 @gmail.com,5168562843,IDN,2022-12-23,Small Business
+C00269,Grace,santos,NULL,(476) 433-9505,MAR,2023-05-31,Corporate
+C00561,Olivia,Martin,olivia.martin233 @gmail.com,1208564287,CHN,2024-04-28,Consumer
+C00199,YUKI,ROSSI,yuki.rossi543 @outlook.com,(428) 874-8991, GRC,2025-11-28,Consumer  
+C00743,CHEN,Lee  ,,+49-705-7260583,NOR,30/12/2024,Small Business
+C00689,Julia,Wang,julia.wang288 @gmail.com,+62-705-3535547,USA,11-27-2025,Consumer
+C00181,Wei,Tanaka,wei.tanaka463 @outlook.com,+6-949-7154486,ITA,2022-09-03,Corporate
+C00941,Anna,Nguyen,ANNA.NGUYEN155@YAHOO.COM,+41-639-8794524,DEU,15/10/2022,consumer
+C00242,Noah,Hassan,noah.hassan208@outlook.com,,BRA,2024-12-15,STUDENT
+C00545,MOHAMMED,Patel  , mohammed.patel732 @company.com,null,AUS,2024-03-02,corporate
+C00291,Liam,lee,LIAM.LEE200@GMAIL.COM,+66-713-6546440,CAN,16/05/2024,small business
+C00527,Noah,Patel,NOAH.PATEL629@OUTLOOK.COM,1422111633,PHL,2022/12/28,Student
+C00894,Liam,brown,liam.brown98 @outlook.com,(532) 755-8968,CHN,12-17-2022,SMALL BUSINESS
+C00378,  Priya , Khan,priya.khan737@company.com,2809380515,RUS,2023-11-01,NULL
+C00690,julia,Sharma,JULIA.SHARMA581@COMPANY.COM,(318) 885-5923,DEU,2025-03-08,Small Business
+C00763,PRIYA,Ivanov,priya.ivanov738 @yahoo.com,NULL,pak,2022-09-21,Small Business
+C00280,Noah,Ali,NOAH.ALI241@GMAIL.COM,(863) 326-6036,HKG,2024-08-19,Corporate
+C00814, OLIVIA, johnson,OLIVIA.JOHNSON463@COMPANY.COM,4847423295,PHL,2023-03-09,Consumer
+C00447,James,Park,james.park308@gmail.com,6531536539,GBR,"Apr 10, 2025",CORPORATE
+C00113,Emma,reyes,emma.reyes925@outlook.com,6364839632,BRA,2022-11-14,SMALL BUSINESS
+C00114,Ahmed, brown,ahmed.brown729  @yahoo.com,(943) 930-4083,FRA  ,2025-05-08,NULL
+C00932,Noah,Lopez,NOAH.LOPEZ551@GMAIL.COM,7714613598,CAN,2022-11-20,STUDENT
+C00840,Maria,Miller,maria.miller246 @company.com,+10-324-4473726,USA  ,2024-08-17,  CORPORATE 
+C00739,Raj,Garcia,RAJ.GARCIA50@COMPANY.COM,8417143675,IND,"Nov 27, 2025",Small Business
+C00600,Olivia,Ibrahim,olivia.ibrahim985@yahoo.com  ,+29-326-1777324,NZL  ,2024-05-13,Consumer
+C00700,  Anna ,Ali,anna.ali539 @gmail.com,9305475174,CHN,2025-10-17,N/A
+C00388,Wei,Zhang,  wei.zhang755 @gmail.com ,+83-603-8932181,BRA,2022-07-08,
+C00021,Liam,Lee,LIAM.LEE141@YAHOO.COM,4591989418,VNM,,Student
+C00678,Grace,johnson  ,grace.johnson753@gmail.com,(664) 907-7697,ZAF  ,08-30-2022,Consumer
+C00541,Ahmed,Sharma,,(327) 884-8076,PHL,2025-07-29,Consumer
+C00116,Fatima, Smith, fatima.smith644 @company.com,+93-834-3212357,RUS,2024-06-01,Consumer
+C00634, Priya,Patel,priya.patel417@gmail.com,(487) 135-3151,CHN,2023/08/11,Corporate
+C00936,sofia,lopez,sofia.lopez611 @yahoo.com,(398) 340-2397,AUS,2025-06-23,Corporate
+C00140,Rosa,zhang,rosa.zhang181@outlook.com,(666) 879-7044,SGP,28/03/2024,Consumer
+C00456,Luis,hassan,luis.hassan57 @company.com,+4-495-9016545,  GBR ,2023-04-15,Small Business
+C00755,Julia,Lee,julia.lee410@yahoo.com,(857) 467-5553,IND,07-07-2023,Consumer
+C00645,fatima,lopez,FATIMA.LOPEZ308@GMAIL.COM,3502890248, IND,2023-05-27,Consumer
+C00820,YUKI,Brown,YUKI.BROWN799@GMAIL.COM,NULL,VNM,02-18-2024,CORPORATE  
+C00343,Aisha  ,Ibrahim,aisha.ibrahim631@company.com,7378733647,FRA  ,2023-06-08,Small Business
+C00409,hiro, SILVA,hiro.silva306 @outlook.com,(317) 375-1198,USA,"Feb 17, 2025",student
+C00816,Julia,Reyes  ,JULIA.REYES451@COMPANY.COM,+85-718-1423454,BRA  ,2023-12-14,Student
+C00899,Luis,Sharma,  luis.sharma476 @gmail.com ,8803943713,ITA,2023-01-07,Consumer
+C00934,Kenji,Smith,KENJI.SMITH405@YAHOO.COM,(665) 195-7411,USA,2024-11-23,CORPORATE
+C00162,Mei,Brown,mei.brown708@yahoo.com,(383) 215-1046,FRA,2024-04-30,Consumer
+C00582,AISHA,IVANOV,aisha.ivanov508@company.com,6742436790,AUT,2022-08-14,Corporate
+C00033,Lucas,kim,lucas.kim40@company.com,8000914789,aus,2024-01-10,Corporate  
+C00075,Mei,Silva, mei.silva367@outlook.com,6818311021,ZAF,2024-08-07,Small Business
+C00284,ETHAN,johnson,ETHAN.JOHNSON162@YAHOO.COM,NULL,MYS,2023-12-27,consumer
+C00891,Maria,Li, maria.li395@yahoo.com,+35-844-9207371,GRC,2024-06-13,student
+C00516,James,IBRAHIM,JAMES.IBRAHIM82@YAHOO.COM,+48-250-9216231,USA,2023-07-03,Small Business
+C00760,wei,Reyes  ,WEI.REYES47@GMAIL.COM,(878) 250-3095,BRA,2025-01-06,Student  
+C00292,Isabel,Martin,isabel.martin926@yahoo.com,1659754058,NULL,2025-08-16,small business
+C00659,lucas,Ibrahim,lucas.ibrahim327 @yahoo.com,(555) 113-8620,UKR,"Apr 22, 2024",CORPORATE
+C00735,MEI,Tanaka,MEI.TANAKA992@YAHOO.COM,+32-834-2235408,PHL,29/07/2024,Small Business
+C00049,Hiro,KHAN,HIRO.KHAN192@OUTLOOK.COM,,USA,2024-10-10,Student
+C00357,  Fatima ,Miller,fatima.miller936@gmail.com,+20-929-7278697,GHA,2022-08-08,Small Business
+C00038,Grace,Patel  ,GRACE.PATEL489@GMAIL.COM,4266673090,TWN,08-01-2025,Small Business
+C00022, Priya,Johnson,PRIYA.JOHNSON546@GMAIL.COM,+97-128-6720097,CHN,2025-05-31,small business
+C00366,Noah,davis,noah.davis861@gmail.com,(555) 945-7973,nld  ,2023-07-11,Small Business  
+C00202,Noah,Garcia,noah.garcia979@outlook.com,(472) 915-6199,GBR,2025/11/10, Student
+C00563,Elena,Johnson,elena.johnson945 @yahoo.com,4442153335,DEU,2024-08-12,Consumer
+C00547,Emma,Reyes,emma.reyes318 @yahoo.com,N/A,EGY,2025-12-09, Corporate
+C00152,Lucas,johnson,lucas.johnson675@outlook.com,,KEN,2024-07-03,Corporate
+C00627,Isabel,park,ISABEL.PARK907@COMPANY.COM,8508316198,ESP,2023-11-11,SMALL BUSINESS
+C00119,aisha,Zhang,AISHA.ZHANG956@YAHOO.COM,5397241324,BRA,2024-08-09,Student
+C00926,emma,johnson,EMMA.JOHNSON38@OUTLOOK.COM,2589048024,RUS,2024-09-26,Small Business
+C00040,Mei,Lee  ,mei.lee902 @outlook.com,+78-357-8920692, MEX,2023/04/04,Consumer
+C00139,Chen,Silva  ,chen.silva544 @yahoo.com,5935043453,twn,2022-10-15,Consumer
+C00353,daniel,Smith,DANIEL.SMITH213@YAHOO.COM,5555027660, CAN,2022-11-12,Consumer
+C00331,Elena  ,Miller,elena.miller772 @yahoo.com,9628187213,AUT  ,2025/06/26, Student
+C00064,,Kim,kenji.kim892 @company.com,,IDN,2025-05-31, Consumer
+C00839,Sofia,Cruz,SOFIA.CRUZ354@OUTLOOK.COM,NULL,USA  ,2024-09-29,Student
+C00774,Daniel,Patel,DANIEL.PATEL160@YAHOO.COM,+46-828-6939791,can  ,01-11-2024,Corporate  
+C00336,Mohammed,Sato,N/A,+93-861-4438621,CHN  ,"May 31, 2025",  Consumer 
+C00701,Isabel,MILLER,isabel.miller391@company.com,(621) 917-7339,PRT,2025-11-22,Small Business
+C00842,N/A,Cruz,carlos.cruz289 @company.com,2485622789, mex,2024-10-02,Small Business
+C00512,Chen,NGUYEN,chen.nguyen5@gmail.com,8159547299,,12-24-2024,Consumer
+C00860,Emma,Sato,emma.sato387@company.com,+84-385-8878309,usa,02/12/2022,Corporate
+C00847,Aisha,brown,AISHA.BROWN602@COMPANY.COM,+22-237-7488236,BRA,25/12/2024,Student  
+C00169,Ethan,  Sharma ,  ETHAN.SHARMA443@YAHOO.COM ,2782638387,HKG,"Sep 24, 2025",Small  Business
+C00745,raj,Santos  ,raj.santos995@outlook.com,8890353519,NLD,2024-09-30,Corporate
+C00299,  Aisha , Sharma,N/A,(532) 873-7065,THA,2023-11-28,Corporate
+C00770,Ethan,Rossi  ,ethan.rossi323 @yahoo.com,+35-971-6216787,IND,2025-04-12,Small  Business
+C00374,Sofia,ibrahim  ,sofia.ibrahim858@gmail.com,(942) 950-6045,KEN,"Sep 24, 2025",Corporate  
+C00448,Emma,Hassan,emma.hassan658 @gmail.com,5353983527,CHN,2022-07-13,Consumer
+C00001,  lucas ,Silva  ,LUCAS.SILVA811@COMPANY.COM,7776963271,IND  ,11-17-2022,Corporate
+C00142,elena, IBRAHIM,elena.ibrahim258@company.com,+49-406-7268360,  ARG ,2023-03-14,corporate
+C00248,FATIMA,Wang,fatima.wang219@gmail.com,4538436244,HKG,2022-08-19,Corporate
+C00917,MEI,Patel,mei.patel436@company.com,(786) 135-9290,NOR,16/07/2023,small business
+C00522,ANNA,Silva,anna.silva601@outlook.com,(958) 592-4964,chn,05-27-2024,Student
+C00438,ahmed,Ibrahim,ahmed.ibrahim84@yahoo.com,+13-388-1764881,AUS,2023-10-28,STUDENT
+C00212, Emma,Kim,emma.kim43@gmail.com,,SWE,02/05/2025,null
+C00849,Priya,Tanaka  ,priya.tanaka420@gmail.com,5052314173,IDN,2022-07-06,Small Business
+C00536,Ahmed,Sato, ahmed.sato447@outlook.com,4514041298,AUS  ,2025-08-22,  Corporate 
+C00209,CHEN,TANAKA,chen.tanaka134@yahoo.com,(631) 615-9288,PAK,2024-07-02,Corporate
+C00477,Noah,CRUZ,noah.cruz953@yahoo.com,3781587565,CHN,03-11-2025,Corporate
+C00883,Rosa  ,CRUZ,ROSA.CRUZ232@GMAIL.COM,(260) 742-2866,IND,2023-05-08,Student
+C00310,  Fatima ,park,fatima.park180 @gmail.com  ,7049863894,AUS,12-25-2022,Small Business
+C00546,Ahmed,tanaka,ahmed.tanaka681 @company.com,(565) 231-3176,RUS  ,08/05/2024,CONSUMER
+C00623,FATIMA,Brown,FATIMA.BROWN15@COMPANY.COM  ,(508) 634-2004,  NGA ,24/10/2022, small business
+C00005,Lucas,  Silva ,lucas.silva489@outlook.com,(274) 795-1159, JPN,23/01/2025,Small Business
+C00653,Fatima,NULL,FATIMA.MARTIN501@YAHOO.COM,8351743818,usa,2024-04-12, Student
+C00079,YUKI,kim,yuki.kim407@outlook.com,6743875978,SGP  ,29/04/2025,Student
+C00896,sofia  ,Khan,sofia.khan675@outlook.com,(280) 930-1259,ZAF,2025-09-16,Small Business
+C00604, EMMA,ALI,emma.ali558 @outlook.com,null,ZAF,,CONSUMER  
+C00794,LIAM,Johnson,liam.johnson493@gmail.com,,usa,2022-11-02,Small Business
+C00469,EMMA,Zhang,EMMA.ZHANG973@GMAIL.COM,+8-108-8425350,ZAF,2025-02-26,Consumer
+C00265,Luis,Ivanov,LUIS.IVANOV29@OUTLOOK.COM,(345) 547-7073,GBR,2025-09-30,Consumer
+C00473,Lucas,Li,LUCAS.LI947@COMPANY.COM,3226715826,BRA,2025-03-17,Consumer
+C00172,Anna,Smith,anna.smith34 @gmail.com,(549) 902-9831,CHN,2023-04-03,Consumer
+C00196,Sofia,  Tanaka ,SOFIA.TANAKA917@COMPANY.COM,(493) 654-3456,IRL,2023-02-21, Student
+C00399,ethan,Lopez,ethan.lopez707 @company.com,7271465435,USA,2023-04-23, Small Business
+C00618,Rosa,lopez,rosa.lopez929@yahoo.com,+42-930-6706088,BRA,2025-06-08,  Corporate 
+C00628,MEI,Nguyen,mei.nguyen452 @outlook.com,+55-915-7634880,SGP,2024-12-24,Small Business
+C00416,Kenji,Reyes,kenji.reyes342 @gmail.com,null,arg,2025-07-11,Corporate
+C00160,LUCAS,Hassan,lucas.hassan305 @outlook.com  ,9123511358,ITA,2023-10-21, Consumer
+C00304, RAJ,Lee,raj.lee14 @gmail.com,(945) 548-9869,FRA,"Mar 26, 2025",Consumer
+C00801, RAJ,Nguyen,RAJ.NGUYEN41@GMAIL.COM,7023636783,IND,08/10/2023,Corporate
+C00507,null,KIM,yuki.kim752 @yahoo.com,+86-784-1517029,PHL,04/12/2022,Student
+C00122,Maria,sharma,,8314101383,DEU,"May 02, 2023",Corporate
+C00275,Olivia,muller,olivia.muller488 @gmail.com,(378) 117-2496,CAN,25/06/2025, Consumer
+C00220,Emma,Ivanov,emma.ivanov803 @company.com,6223898226,UKR,11/11/2024,Small Business
+C00090,HIRO,patel,hiro.patel489 @yahoo.com,8137380193,FRA,2025-06-10, Consumer
+C00588,Anna,Sato,ANNA.SATO119@COMPANY.COM,1913454225,CAN,26/01/2025,Student
+C00266,NULL,Rossi,sofia.rossi293@outlook.com,9332027773,mar,2024-12-15,Corporate
+C00767,GRACE,SMITH,grace.smith290@gmail.com  ,+46-805-7357817,CAN,2022-07-15,Student
+C00026,Priya,Zhang,priya.zhang154@company.com,(583) 775-9592,MEX,13/10/2023,Small Business
+C00481, Mei, Park,mei.park154@outlook.com,(971) 293-7685,USA,,  CORPORATE 
+C00429,Liam,tanaka,liam.tanaka947@gmail.com,+43-762-6622669,GBR,2024-09-04,SMALL BUSINESS
+C00488,Noah  ,lopez,noah.lopez486@yahoo.com,NULL,DEU,2024-11-22,Consumer
+C00731,NULL,Garcia,null,+1-426-8757119,SWE,2025-10-09,Corporate
+C00228, ROSA,Ivanov,rosa.ivanov473 @yahoo.com,(618) 490-6117,TWN,2024-03-04,Consumer
+C00045,SOFIA,Reyes,SOFIA.REYES872@YAHOO.COM,N/A,SAU,2023-07-01,SMALL BUSINESS
+C00751,James,Zhang,james.zhang129@yahoo.com,9079473443,KEN,2024-02-27,Corporate
+C00648,Raj  ,Kim,RAJ.KIM193@GMAIL.COM,NULL,NLD,2022-10-20,Corporate
+C00216,  Ahmed ,Patel  ,,(312) 127-7759,KOR,2025-02-26,Consumer
+C00414,Lucas,Davis,LUCAS.DAVIS816@COMPANY.COM,9893164929,esp,2025-06-20,Student
+C00785,Fatima,Muller, fatima.muller742@gmail.com,(769) 293-3048,USA,2025-10-16, Student
+C00570,LUIS,Tanaka,LUIS.TANAKA490@COMPANY.COM,(878) 186-5397,USA,09/10/2023,student
+C00944, Fatima,davis,fatima.davis983 @yahoo.com,+16-359-8936069,MEX  ,2024-01-23,Consumer
+C00559,Mei,Johnson,mei.johnson12@company.com,(551) 567-8193,USA,2024-09-10,Student
+C00742,Grace,Sato,GRACE.SATO472@COMPANY.COM,(809) 776-9109,MEX  ,2022-10-30,Corporate
+C00636,ethan,ali  ,ethan.ali82@gmail.com,6465384067,JPN,2025-05-26, Consumer
+C00727,GRACE,Martin, grace.martin103 @outlook.com,,PHL,2023-06-16,Student
+C00418,Hiro,Garcia,HIRO.GARCIA367@YAHOO.COM,+66-650-4510407,KEN,2024-03-22,student
+C00701,Isabel,MILLER,isabel.miller391@company.com,(621) 917-7339,PRT,2025-11-22,Small Business
+C00779,JAMES  ,Hassan,james.hassan671@company.com,+42-683-7937827,USA,"Apr 22, 2025",Consumer
+C00318,  Ethan ,li, ETHAN.LI933@YAHOO.COM,+38-281-9744956,JPN  ,2025-11-28,Small Business
+C00706,Liam,Kim  ,liam.kim831 @outlook.com,9265773095,AUS,2024-11-01,Corporate
+C00367,Carlos,NGUYEN,carlos.nguyen733 @gmail.com,+62-530-1530933,USA,10-21-2022,Consumer
+C00028, LUCAS,Lee,LUCAS.LEE482@GMAIL.COM,(221) 444-6515,ARE,"May 27, 2024",Student
+C00126,Anna,Ivanov,anna.ivanov384@yahoo.com,(805) 701-6751, CHE,2022-11-25,Consumer
+C00790,ANNA,Park,anna.park329 @yahoo.com,(105) 541-2261, DEU,2023-05-15,Corporate
+C00939, hiro,Hassan  ,HIRO.HASSAN977@YAHOO.COM,+43-880-2847745,POL,2023-09-20,Student
+C00480,Wei,Davis  ,NULL,(708) 820-3964,MYS,2025-01-04,
+C00135,Luis,Santos,LUIS.SANTOS958@OUTLOOK.COM,null,ZAF,10-14-2024,CONSUMER
+C00686,MOHAMMED,Cruz,mohammed.cruz143 @company.com,6970991010,ARE,2023-12-06, Student
+C00635,  Emma ,Cruz,emma.cruz70@company.com,+70-815-1240522,KOR,2024-05-11,Student
+C00704,Mei,Wang,mei.wang358 @outlook.com,(714) 762-1091,AUS,2024-03-06, Small Business
+C00940,Luis,Muller  ,luis.muller443@yahoo.com,+62-200-1911379,AUS,2024-11-29,Small Business
+C00857,lucas,Zhang,lucas.zhang317 @outlook.com,9798372109,BRA  ,2024-11-03,Corporate
+C00817,NOAH, PARK,NOAH.PARK73@OUTLOOK.COM,NULL,MEX,2023-04-29,Small Business
+C00858, Noah,Ali,noah.ali754 @company.com,+27-169-4747013,PHL,03/12/2025,Small Business
+C00091,Daniel,Khan,N/A,1382706193,CHN,28/02/2024,Small Business
+C00930,Emma,Li,emma.li813 @gmail.com,4381708073,ZAF,2024-09-03,Consumer
+C00753,Raj,Brown,raj.brown188@company.com,(668) 773-2694,CHL,2023-06-28,
+C00206,Carlos,Reyes,carlos.reyes585 @gmail.com,,jpn,2025/07/31,Consumer
+C00667,MEI,Cruz,MEI.CRUZ377@GMAIL.COM,+52-840-7848369,  HKG ,"Aug 28, 2024",Corporate
+C00497,Anna,ivanov,anna.ivanov843 @gmail.com,6816998048,NULL,2025-03-09,Student
+C00155,SOFIA,hassan,sofia.hassan672@yahoo.com,NULL,CAN,2022-10-19, Consumer
+C00351,,Rossi,HIRO.ROSSI611@COMPANY.COM,(262) 546-2261,COL,2023-03-29,  Student 
+C00803,Emma,Lee, emma.lee235@yahoo.com,(446) 461-8863,JPN,2023-09-14,  SMALL BUSINESS 
+C00722,Mohammed,Santos,mohammed.santos533@gmail.com,6092088312,USA,2023-12-15,Corporate
+C00268,SOFIA,Lopez,sofia.lopez955 @gmail.com,,CHN,2022-07-22,Small Business
+C00503, wei,Cruz,wei.cruz629@outlook.com,+48-628-6585274,CAN,2023-04-10,Corporate
+C00178,Rosa,Ali,  rosa.ali245 @yahoo.com ,(828) 714-8450,  ITA ,2023-07-12,  Corporate 
+C00101, Elena,BROWN,elena.brown904@yahoo.com,(531) 527-8546,CHE,2024-08-25,Corporate
+C00147,Olivia,Khan,olivia.khan844 @yahoo.com,NULL, TUR,2024-11-02,Consumer
+C00089,Fatima,Patel,fatima.patel79@yahoo.com,3594553624,MAR,"Sep 23, 2025",CORPORATE
+C00136,olivia,ali,olivia.ali441 @yahoo.com,3646973915,AUS,2025-10-31, Corporate
+C00803,Emma,Lee, emma.lee235@yahoo.com,(446) 461-8863,JPN,2023-09-14,  SMALL BUSINESS 
+C00733,Maria,Ali  ,MARIA.ALI71@GMAIL.COM,(106) 423-8896,MEX,NULL,small business
+C00811,Maria,Garcia,maria.garcia639 @yahoo.com,+27-271-2900119,ESP,2024-05-18,Corporate
+C00861,ahmed,Martin  ,AHMED.MARTIN1@COMPANY.COM,+79-268-6340147,GBR,2023-04-21,Corporate
+C00903,Emma,Reyes, emma.reyes940 @outlook.com,(280) 635-4669,GRC,2024/09/28,consumer
+C00875,Ahmed,lee,,,UKR,2025-04-02,Consumer
+C00359,Liam,Wang,liam.wang493 @company.com  ,+58-450-2640625,JPN,02-18-2023,Small  Business
+C00724,Elena,muller,elena.muller813 @gmail.com  ,+85-650-4054488,FRA,2023-11-28,Corporate
+C00669,N/A,lopez  ,wei.lopez369 @company.com,N/A,ISR,2024-02-10,Consumer
+C00207,Daniel,Lee,daniel.lee630 @yahoo.com,+19-342-3794477,JPN,01-04-2025,corporate
+C00768,hiro,Ivanov,hiro.ivanov826 @company.com,(752) 168-2860,,26/02/2025, CORPORATE
+C00468, fatima, Muller,FATIMA.MULLER663@YAHOO.COM,+31-104-8836901,MAR,02/09/2023,Corporate
+C00778,Raj,Garcia  ,raj.garcia488@yahoo.com,(152) 885-3619,CHN,2022-07-25, CONSUMER
+C00622,daniel,Hassan  ,daniel.hassan55@outlook.com,+89-941-1326358,GRC,2024-06-10,Student
+C00674,Aisha, Garcia,aisha.garcia618@gmail.com,3967180272,PHL,30/10/2024,Consumer
+C00260,Mei,Smith  ,MEI.SMITH131@GMAIL.COM,+17-812-2732002,ITA,2024-08-19,Consumer
+C00168,Olivia,smith,olivia.smith438 @outlook.com,+21-339-1758400,PHL,03/03/2023,Corporate
+C00298,Sofia,Reyes,SOFIA.REYES570@YAHOO.COM,+44-750-2913352,THA,2022-10-31,Corporate
+C00244,fatima,Sharma,FATIMA.SHARMA817@YAHOO.COM,(235) 207-6678,MYS,04-01-2025,corporate
+C00876,  Daniel , Khan,DANIEL.KHAN397@OUTLOOK.COM,(435) 928-8816,ZAF,2025-09-14,Student
+C00826,  Noah ,Wang,NOAH.WANG736@OUTLOOK.COM,+90-547-4579252,ZAF,2025-01-16,Corporate
+C00067,Sofia,cruz,SOFIA.CRUZ7@OUTLOOK.COM,4276427174,CAN  ,2025-10-31,small business
+C00283,raj,Khan,RAJ.KHAN140@GMAIL.COM,+61-102-8218298,GBR,2023-08-31,Consumer
+C00513,Maria,Wang,maria.wang867 @outlook.com,+44-501-9060352,GBR,2022-07-11,Small Business
+C00083,Carlos,Wang,carlos.wang902@outlook.com,+63-876-5883963,CAN,2024-10-11,Small Business
+C00670, Yuki,SANTOS,yuki.santos636@yahoo.com,(638) 669-4496,ZAF,"Oct 26, 2025",Corporate  
+C00757,  Julia ,Santos,julia.santos890 @gmail.com  ,+68-935-4859756,egy,2024-03-11,Student
+C00375,ANNA,Ali,anna.ali704@gmail.com,6874932985,ARG,2023-10-16,Consumer
+C00560,EMMA,Santos  ,emma.santos72 @gmail.com,+84-271-5822101,deu,26/12/2023,Consumer
+C00791,MARIA, garcia,MARIA.GARCIA390@COMPANY.COM,+70-813-4186303,PHL,2024-08-29,Small Business
+C00171,Julia,lopez,JULIA.LOPEZ247@GMAIL.COM,(243) 922-4612,USA,20/12/2025,Small Business
+C00002, WEI,  Wang ,wei.wang996 @company.com,+41-878-6231562,phl,22/11/2025,CORPORATE
+C00494,Olivia,Johnson  , olivia.johnson702@company.com,+71-780-3217318,CHL  ,2023-04-24,null
+C00332,Ethan,DAVIS,ethan.davis996@outlook.com,(437) 613-3318,SAU,2023-11-15,Consumer
+C00445,  Carlos ,HASSAN,carlos.hassan145@gmail.com,2219377735,SWE,2025-10-02,CONSUMER
+C00525,Elena,rossi,ELENA.ROSSI370@GMAIL.COM,4145374623,  twn ,2023-05-21,Small Business
+C00793,Olivia,Wang,olivia.wang476@yahoo.com,8991695305,bgd,2025-06-04,Small Business
+C00827,Mei,NULL,mei.sato103@gmail.com,4187186181,VNM,10-19-2024,Student
+C00879,Olivia,Miller  ,olivia.miller729@company.com,(556) 850-7000,GBR,2023-10-12,Consumer
+C00243,Wei,Lopez,null,8662071692,USA,2022-12-02,Small Business
+C00601, Sofia,NULL,sofia.ibrahim494@company.com,+15-522-3996034,HKG,2022-06-14,Student
+C00173,Mohammed  ,Brown,mohammed.brown164@gmail.com,6644075095, JPN,2023-10-17,Consumer
+C00869,  Ahmed ,Kim  ,ahmed.kim375 @gmail.com,+98-795-4891786,AUT,2023-06-27,Student
+C00575, YUKI,Davis,yuki.davis136 @outlook.com,1652343126,DNK,2024-07-02,Corporate
+C00885,fatima  ,Cruz,fatima.cruz911@outlook.com,3562814290,MYS,2024-05-09,Student
+C00780,Liam,Kim,NULL,5497171467,JPN,2024-04-28,Consumer
+C00683,  rosa ,Sharma,rosa.sharma630@yahoo.com  ,8571211387,FRA  ,09/09/2022,Consumer
+C00252,Luis,Khan,LUIS.KHAN784@COMPANY.COM,1206779059,TWN,2022-06-07,Consumer
+C00111, Anna,  Ivanov , anna.ivanov892@yahoo.com,(501) 262-5972,can,2024-11-08,Consumer  
+C00200,Luis, kim,LUIS.KIM49@YAHOO.COM  ,1868859809,egy,10/05/2025, Student
+C00685, Yuki,Sharma, yuki.sharma634 @outlook.com,(283) 423-4121,MEX,2025-10-21,small business  
+C00068,Rosa,Kim,ROSA.KIM625@YAHOO.COM,6610225390,N/A,2022-09-22,
+C00166,Daniel,Miller,daniel.miller366 @gmail.com,+72-116-2279569,NGA,2025-06-28,Corporate  
+C00386,Noah  ,Wang,noah.wang776@yahoo.com,9574071063,JPN,2024-11-26,Corporate
+C00405,Sofia,  SHARMA ,SOFIA.SHARMA462@COMPANY.COM,(967) 625-9211,TWN,2025-06-23,SMALL BUSINESS
+C00392,Fatima,Sharma,fatima.sharma914 @yahoo.com,+35-531-9152344,GBR,2024-06-14,NULL
+C00019,Julia,NGUYEN,JULIA.NGUYEN548@COMPANY.COM,+16-730-7169127,GRC,2025/06/03,Consumer
+C00320,maria,Johnson,maria.johnson508@company.com,9422071492,  AUS ,2024-12-15,Student
+C00608,grace,Sato,grace.sato456@outlook.com,1457443785,MEX,2025-06-17,Consumer
+C00132,Wei,Johnson,WEI.JOHNSON615@GMAIL.COM,(415) 975-8699,TWN,2025-07-22,Corporate  
+C00145,GRACE,Zhang,grace.zhang740@outlook.com,, ind,"Oct 14, 2022",Corporate
+C00189,N/A,Lopez,KENJI.LOPEZ52@OUTLOOK.COM,+98-983-7906275,BRA,"Jan 27, 2025",Corporate
+C00185,Hiro,Ali,HIRO.ALI584@YAHOO.COM,3031423129, CAN,"Aug 17, 2023",Corporate
+C00499,James,Davis,james.davis257 @company.com,3324795806,CHN  ,2023-06-06,Consumer
+C00426,JULIA,,JULIA.WANG306@GMAIL.COM,8642840847,KEN,2024-02-06,CORPORATE
+C00373,CHEN,Ibrahim,chen.ibrahim494  @company.com,+89-566-1984532,arg,2024-09-01,Consumer
+C00888,Mei,Smith, mei.smith534@gmail.com,(448) 134-2840,GHA,2023-08-28,
+C00926,emma,johnson,EMMA.JOHNSON38@OUTLOOK.COM,2589048024,RUS,2024-09-26,Small Business
+C00688,ROSA,  garcia ,rosa.garcia348 @yahoo.com,+3-437-4857678,CHN,2023-11-11,Consumer
+C00906,Emma,Silva,emma.silva394@gmail.com,,FRA,2024-01-10,Consumer
+C00431,Aisha,NGUYEN,AISHA.NGUYEN234@YAHOO.COM,6225164169,KOR,2023-05-21,student
+C00018,hiro,Ibrahim,hiro.ibrahim61 @yahoo.com,4991586232,USA,2024-05-18, CORPORATE
+C00479,Emma,Sato,EMMA.SATO617@GMAIL.COM,(125) 662-4079,,2024-01-17,Student
+C00948,Priya,Patel,priya.patel34@outlook.com,+78-720-3884191, NZL,2024-07-20,Consumer
+C00942, Raj, park,raj.park313 @company.com,(425) 770-1876, CHN,06/02/2023,Student
+C00373,CHEN,Ibrahim,chen.ibrahim494  @company.com,+89-566-1984532,arg,2024-09-01,Consumer
+C00734,Grace  ,LEE,grace.lee460@gmail.com,+80-273-4757673,HKG,2023-01-09,SMALL BUSINESS
+C00475,Mei,Garcia,MEI.GARCIA604@GMAIL.COM,+6-277-9837018,NLD,2022-09-12,Small Business
+C00156,Ahmed  ,IBRAHIM,ahmed.ibrahim814@outlook.com,(497) 925-4101,POL,2022-11-24,small business
+C00577, Aisha,Zhang,AISHA.ZHANG421@YAHOO.COM,null,PAK,2024-10-08,Consumer
+C00629, Chen,Wang, chen.wang282 @outlook.com,+33-371-6548242,PHL,2024-11-20,CONSUMER
+C00925,Grace,Tanaka,grace.tanaka115@yahoo.com,+75-463-9357931,IDN,"Dec 11, 2024",CORPORATE
+C00643,Isabel,Patel,ISABEL.PATEL474@OUTLOOK.COM,(553) 217-5921,EGY,2025-07-20,  Corporate 
+C00848,Emma,Hassan,emma.hassan549@company.com,(245) 313-6973, HKG,2024-01-05,Consumer  
+C00109,sofia,Reyes,SOFIA.REYES330@YAHOO.COM,1692624346,CAN,NULL,Consumer
+C00224,raj,Tanaka,raj.tanaka731 @gmail.com,(209) 897-8540,CAN,01-21-2024,Student
+C00658,Aisha,Ali,aisha.ali831@yahoo.com,+61-962-6934577,CHN  ,2022-10-15,Small Business
+C00192,Emma, Lopez,EMMA.LOPEZ927@COMPANY.COM,(686) 659-6572,KEN,2024-10-20,Corporate
+C00671,Yuki,Kim,N/A,5453123216,VNM,2025-08-25,Corporate
+C00603,,Ali,fatima.ali748@yahoo.com,+22-743-5240376,NLD,2025-05-10,Student
+C00819,elena,Ali,ELENA.ALI547@OUTLOOK.COM,8136145897,IND,"Feb 29, 2024",CORPORATE  
+C00862,Mohammed  ,Santos,mohammed.santos594@company.com,7613797397,tur,"May 08, 2025",Corporate
+C00164,Luis,Muller,LUIS.MULLER781@GMAIL.COM,+57-236-1287658,FRA,2023-12-01,Consumer
+C00361, Kenji,Khan,kenji.khan307 @yahoo.com,(658) 341-5167,USA,"Sep 22, 2025",Consumer
+C00216,  Ahmed ,Patel  ,,(312) 127-7759,KOR,2025-02-26,Consumer
+C00556,fatima,Miller,fatima.miller329 @yahoo.com,(771) 963-8455,PHL,2025-01-23,corporate
+C00407, Carlos,Johnson,CARLOS.JOHNSON86@COMPANY.COM,+67-508-6410210, IND,2025-05-08,Student
+C00008,Chen, ALI,NULL,(241) 458-5641,DEU,07/12/2023,Student  
+C00920,grace,Muller,grace.muller250  @outlook.com,3354168451,VNM,2025-03-28,NULL
+C00788,wei,Sato,  wei.sato165@yahoo.com ,1527952946,UKR,07/10/2024,Consumer
+C00387, Hiro,SMITH,hiro.smith709@company.com,(773) 270-9818,MEX,2022-08-15,Small Business
+C00625,Julia,SMITH,julia.smith87@gmail.com,5736368501, DNK,2022-09-28,Small Business
+C00467,yuki,MILLER,yuki.miller672@yahoo.com  ,+35-535-8176571, CAN,"Apr 29, 2024",student
+C00921, AISHA,Smith, AISHA.SMITH813@OUTLOOK.COM,NULL,MEX,2024-05-30,Small Business
+C00644,Hiro,Patel,hiro.patel147 @gmail.com,5692386503,TWN  ,2023-03-05, Small Business
+C00333,Noah,johnson,NOAH.JOHNSON31@COMPANY.COM,+13-159-3314386,CAN,06-03-2022,CORPORATE
+C00696,  Fatima ,Reyes  ,fatima.reyes159 @gmail.com,(236) 536-5283,NULL,2024/06/07,N/A
+C00657,Ahmed, Martin,AHMED.MARTIN620@GMAIL.COM,(675) 378-4093, ISR,"May 20, 2023",Small Business
+C00176, priya,Zhang  ,PRIYA.ZHANG315@COMPANY.COM,(941) 499-5777,CAN,26/08/2022,Small Business
+C00593,Sofia,IVANOV,  sofia.ivanov642@company.com ,(811) 258-5473,USA,07-22-2025,Student
+C00338,Mohammed,Li,mohammed.li580 @company.com,(254) 188-6509,ESP,31/05/2024,Consumer
+C00746,OLIVIA,Muller,OLIVIA.MULLER399@YAHOO.COM,,IND,2022/09/14,small business
+C00084,Kenji,LI,kenji.li337@company.com,,USA,11/10/2024,Consumer
+C00712,NOAH, Silva,noah.silva640@gmail.com,6351046963, JPN,2025-09-27,Consumer
+C00098,Hiro,Nguyen,HIRO.NGUYEN974@GMAIL.COM,7937750130,AUS,23/06/2023,Consumer
+C00308,sofia,Miller  ,SOFIA.MILLER685@OUTLOOK.COM,4935207729,ESP,2025-01-21,  Corporate 
+C00869,  Ahmed ,Kim  ,ahmed.kim375 @gmail.com,+98-795-4891786,AUT,2023-06-27,Student
+C00501,Isabel,Santos  ,ISABEL.SANTOS640@GMAIL.COM,3847175007,FRA,2024-03-03,Student  
+C00602,Emma,Muller,emma.muller585@yahoo.com,1315639103,USA,2023-03-31,Student  
+C00313,Maria,Kim,maria.kim147@gmail.com,(573) 114-6376,CHN,20/12/2022,Corporate
+C00355,Yuki,LOPEZ,YUKI.LOPEZ474@YAHOO.COM,1255549190,CHN,2025-07-07,Corporate
+C00030,Hiro,ZHANG,HIRO.ZHANG216@COMPANY.COM,+34-720-2780388,,2025-06-10, Student
+C00205,Liam,Silva,LIAM.SILVA147@GMAIL.COM,(885) 582-7619,AUS,2024-05-17,Small Business
+C00356,Daniel, Patel,daniel.patel24@company.com,(781) 832-2692,NLD,07/11/2022,NULL
+C00218,Rosa,Li,rosa.li693 @outlook.com,6985569796,JPN,,Small Business
+C00799,Aisha,Lopez,aisha.lopez453@outlook.com  ,(134) 953-7415,NULL,2023-10-28,Corporate
+C00465,MARIA,Nguyen,maria.nguyen44 @gmail.com,9111377542,ARG,2025-02-15,Consumer
+C00223, fatima,Kim  ,FATIMA.KIM64@GMAIL.COM,+52-193-2409831,FRA,2024/08/12, Student
+C00227,Elena,Rossi,,7731155785,FRA,2025-04-22,Consumer
+C00812,SOFIA,wang,,(922) 543-8672,NULL,2022-12-14,Small Business
+C00855,  Priya ,,PRIYA.NGUYEN649@COMPANY.COM,N/A,IRL,2022/10/25,Corporate
+C00411,Anna,li,ANNA.LI288@GMAIL.COM,(168) 625-7969,THA,08/06/2022,Corporate
+C00535,Hiro  ,Patel,hiro.patel701@outlook.com  ,+91-751-5884394,VNM,2024-10-17,Student
+C00065,Yuki,Tanaka,yuki.tanaka263 @yahoo.com,(312) 333-4996,IND  ,2022-09-13,Corporate
+C00694,Raj,Zhang,,(567) 547-4597,GBR,2023-08-06,Corporate
+C00775,  Rosa ,lopez,rosa.lopez955@outlook.com,(845) 498-6510,PHL,2022/11/10,  SMALL BUSINESS 
+C00233,Emma,Muller,EMMA.MULLER919@GMAIL.COM  ,7565982311,RUS,2025-05-26,Corporate
+C00276, Olivia,Kim  ,olivia.kim446@yahoo.com,null,HKG  ,15/02/2025,corporate
+C00405,Sofia,  SHARMA ,SOFIA.SHARMA462@COMPANY.COM,(967) 625-9211,TWN,2025-06-23,SMALL BUSINESS
+C00739,Raj,Garcia,RAJ.GARCIA50@COMPANY.COM,8417143675,IND,"Nov 27, 2025",Small Business
+C00058,Grace,Smith,grace.smith160@yahoo.com,(323) 316-2812,GBR,2024-08-30,Corporate
+C00180,Mei,Ali,NULL,+78-172-3066510,,12/09/2024,Corporate
+C00187,Liam  ,Smith,LIAM.SMITH576@COMPANY.COM,+33-963-4221911,GBR,08-23-2022,null
+C00724,Elena,muller,elena.muller813 @gmail.com  ,+85-650-4054488,FRA,2023-11-28,Corporate
+C00821,Hiro,miller,HIRO.MILLER272@OUTLOOK.COM,N/A,USA,2023-10-29,student
+C00165,Mei,ivanov,mei.ivanov21 @gmail.com,(120) 435-7876,CAN,18/10/2024,Corporate
+C00550,Mei,Johnson, mei.johnson526@outlook.com,N/A,are,,Student
+C00454,DANIEL  ,Sato,daniel.sato350 @company.com,NULL,CHN,2023-09-23,Student
+C00232,Hiro  , CRUZ,hiro.cruz711@company.com  ,+65-934-5214454,KOR,07-19-2025,Corporate
+C00106,Yuki,Martin, yuki.martin314 @outlook.com,NULL,GBR,2024-10-17,Small Business
+C00561,Olivia,Martin,olivia.martin233 @gmail.com,1208564287,CHN,2024-04-28,Consumer
+C00293,EMMA,Ibrahim,emma.ibrahim421 @yahoo.com,+53-276-5977111,CAN,2025-07-03,Consumer
+C00441,KENJI,Wang,kenji.wang297@gmail.com  ,+28-546-8993284,zaf,2025/03/19,student
+C00526,ahmed,Reyes,AHMED.REYES54@GMAIL.COM  ,2556681746,idn,2024-12-08,Consumer
+C00706,Liam,Kim  ,liam.kim831 @outlook.com,9265773095,AUS,2024-11-01,Corporate
+C00777,Chen,N/A,CHEN.NGUYEN623@COMPANY.COM,+25-743-5217473,BRA,2024-05-30,null
+C00413,Raj,WANG,RAJ.WANG832@GMAIL.COM,+3-530-3562930,ARE,07-26-2022,Corporate
+C00345, RAJ,Martin,RAJ.MARTIN767@YAHOO.COM,+47-147-9769144,CHN,2025-08-27,
+C00327,Isabel,smith  ,isabel.smith214 @yahoo.com,+4-793-3247082,aus  ,2024-03-16,consumer
+C00342,Mohammed,REYES  ,mohammed.reyes652@company.com,(671) 641-8268,USA,2022-09-24, student
+C00204,ELENA,Ivanov,elena.ivanov601 @company.com,5852181581,IDN  ,21/05/2023,Consumer
+C00518,Fatima,Lee,fatima.lee908@company.com,(968) 294-8309,,2025-01-31,Student
+C00796,carlos, park,carlos.park290 @outlook.com,1104984016, can,2025-01-14,Corporate
+C00675,NULL,Lee,mohammed.lee961 @outlook.com,+64-911-4580392,IND,2025-03-23,Small Business
+C00245, James,martin,james.martin589@gmail.com,(615) 266-6375, JPN,2025-04-24,  Student 
+C00697,ELENA,  sharma ,elena.sharma990@company.com,N/A,BGD,2025-01-26,Corporate
+C00639,LUCAS  ,Miller,,(445) 397-7726,GBR,2024/12/08,Consumer  
+C00432,julia,Miller,julia.miller974 @outlook.com,4566444169,GBR,2024-04-11,Student
+C00895,Mei,Santos,mei.santos867 @yahoo.com,(316) 705-4702,GBR,2025-02-01,Student
+C00594,Isabel,LOPEZ,isabel.lopez887@company.com,6972224708,USA,2024-03-16,Consumer
+C00509,daniel,Kim,daniel.kim37@yahoo.com,(195) 954-2071,GBR,24/11/2025,small business
+C00720,MOHAMMED,Nguyen,MOHAMMED.NGUYEN82@COMPANY.COM,+72-492-1775541,CAN,2025-06-23,CONSUMER
+C00287,olivia,Davis  ,olivia.davis500@yahoo.com,(834) 266-3677,SGP,2024-09-25,Student
+C00149,Priya  ,Lee  ,priya.lee847@outlook.com,9147794062,USA,2024-01-04,small business
+C00464, Aisha,Cruz,AISHA.CRUZ354@GMAIL.COM,(456) 515-7307,ARE,2025-12-21,Corporate
+C00508,OLIVIA,Smith,OLIVIA.SMITH628@OUTLOOK.COM,(800) 748-1914,nor,2022-10-23,Student
+C00738,Aisha,Khan,aisha.khan577@outlook.com,+47-499-2880198,PHL,2025-08-09,Small Business
+C00466,JULIA,Li,julia.li433 @gmail.com,(985) 128-6453,usa,2025-09-17,Corporate
+C00485,  SOFIA ,Zhang,SOFIA.ZHANG843@GMAIL.COM,+63-245-6280331,DEU,2022-08-18,Consumer
+C00663,Emma,KHAN,emma.khan161 @gmail.com,(654) 540-6907,PHL,2024-06-09,Student
+C00208,James,Miller,james.miller341 @outlook.com,+57-102-4133895,DEU,2025-03-16,small business
+C00708,anna,santos,anna.santos883@outlook.com,(878) 578-1475,USA,2022-10-02,Consumer
+C00891,Maria,Li, maria.li395@yahoo.com,+35-844-9207371,GRC,2024-06-13,student
+C00589,JULIA,Garcia,julia.garcia466 @outlook.com,+30-352-2787488,ITA,,Student
+C00915,Lucas,Khan,lucas.khan609  @company.com,2825031832,FRA,2024-11-12,Student
+C00845,Mohammed  ,Cruz,,(469) 323-6653,IRL  ,2023-10-27,Student
+C00197,  Anna , sharma,ANNA.SHARMA537@GMAIL.COM,(682) 139-1501,CAN,2024-05-02,Corporate
+C00159,Olivia,Rossi,OLIVIA.ROSSI871@COMPANY.COM,2557063795,gbr,2023-09-18,Consumer
+C00339,Mohammed  ,  Sato ,MOHAMMED.SATO839@GMAIL.COM,(793) 700-5710,USA,24/04/2025,Consumer
+C00453,James,IVANOV,james.ivanov227 @yahoo.com,+1-289-3537113,AUT,2025-02-27,CONSUMER
+C00003,ROSA,miller,rosa.miller664 @gmail.com,(317) 254-7503,CHE,09/09/2022,student
+C00011,Aisha,Davis,aisha.davis298  @company.com,5959722992,che  ,2023-02-03,Consumer
+C00157,LUIS,Lee,luis.lee776@outlook.com,(954) 772-9099,CHN,2022-08-25,SMALL BUSINESS
+C00461, Raj,khan,raj.khan885 @outlook.com,null,GBR,17/08/2024,STUDENT
+C00272,  Ahmed ,LI  ,ahmed.li827 @yahoo.com,(979) 604-8122,AUS,16/07/2023,corporate
+C00154,Olivia, Ali,,(116) 613-6016,CHN,2025-07-06,Corporate
+C00428,FATIMA, CRUZ,FATIMA.CRUZ989@YAHOO.COM,(199) 146-7641,  FRA ,2022-09-17,consumer
+C00137,Noah,Miller,NULL,(121) 611-9315,USA,2022-11-06,student
+C00440,Liam,Rossi,liam.rossi203@gmail.com,NULL,CAN,2024-02-12,consumer
+C00740,daniel  ,MILLER,DANIEL.MILLER481@GMAIL.COM,+49-929-9235977,GBR,2025-07-11,Small Business
+C00048,noah,Patel,NOAH.PATEL662@OUTLOOK.COM,3041010654,GBR,01-01-2023,consumer
+C00295,ETHAN,Davis,ethan.davis690@gmail.com,(866) 418-2945,hkg,"Nov 02, 2025",
+C00523,rosa,tanaka,rosa.tanaka219@gmail.com,3887067102,ZAF,"Sep 10, 2024",Student  
+C00725,LUIS,martin,luis.martin572 @outlook.com,(435) 698-7308,CHN,2024-08-26,Small Business
+C00384, sofia,Zhang  , sofia.zhang805@yahoo.com,+55-538-2716391,POL,2022-06-09, Corporate
+C00531,Maria,KHAN,maria.khan923 @company.com,1318123463,  COL ,28/11/2022, Corporate
+C00297, Liam,  Hassan ,NULL,(962) 929-3800,GBR  ,2025-05-29,Student
+C00400,sofia,Smith,SOFIA.SMITH590@GMAIL.COM,3256022785,COL,2024-05-01,Student
+C00623,FATIMA,Brown,FATIMA.BROWN15@COMPANY.COM  ,(508) 634-2004,  NGA ,24/10/2022, small business
+C00364,Ahmed  ,Brown,,+78-819-8004579,PRT,2024-05-02,Small Business
+C00419,Emma,Ibrahim,emma.ibrahim547@gmail.com,+81-373-6992158,USA,23/10/2024,Consumer
+C00305,HIRO,Sato,HIRO.SATO823@GMAIL.COM,6984584496,BRA,2024-02-07,corporate
+C00827,Mei,NULL,mei.sato103@gmail.com,4187186181,VNM,10-19-2024,Student
+C00870, Noah,SATO,noah.sato252 @yahoo.com,+14-442-1465261, usa,2023-11-01,Corporate
+C00393,LUIS,DAVIS,LUIS.DAVIS569@COMPANY.COM,3753379182,,2025-09-14,CORPORATE
+C00680,Aisha,Nguyen  ,aisha.nguyen936 @company.com,+53-645-8348792,USA,2023-03-30,Corporate
+C00797,Emma,Lopez,EMMA.LOPEZ775@COMPANY.COM,5753409138,GBR,2023-08-19,Corporate
+C00501,Isabel,Santos  ,ISABEL.SANTOS640@GMAIL.COM,3847175007,FRA,2024-03-03,Student  
+C00555, Daniel,Rossi,DANIEL.ROSSI377@COMPANY.COM  ,(612) 562-1933,usa,2022/06/10,Small Business
+C00807, MOHAMMED,  Silva ,mohammed.silva747 @company.com,(185) 632-7999,USA  ,2023-12-12,Corporate
+C00066,N/A,Hassan  ,aisha.hassan604@yahoo.com,(746) 280-6384,ITA,2025-05-25,Small Business  
+C00574,Grace,nguyen,grace.nguyen255@gmail.com  ,null,TWN,2023-04-19,Consumer  
+C00228, ROSA,Ivanov,rosa.ivanov473 @yahoo.com,(618) 490-6117,TWN,2024-03-04,Consumer
+C00443,Lucas,Silva,lucas.silva283@outlook.com,7233791558,KEN,13/06/2023,student
+C00124,JULIA, Nguyen,julia.nguyen845 @company.com,(433) 849-7116,USA,2024-05-20,Consumer
+C00408,Maria,patel,maria.patel74 @company.com,(306) 641-7660,GBR,18/01/2025,STUDENT
+C00410,Fatima,brown,FATIMA.BROWN113@YAHOO.COM,+66-114-6400050,  GBR ,2022/08/30,Small Business
+C00439, Daniel,  Sharma ,daniel.sharma674 @gmail.com,+54-221-7781322,sgp,"Mar 24, 2025",Small Business
+C00757,  Julia ,Santos,julia.santos890 @gmail.com  ,+68-935-4859756,egy,2024-03-11,Student
+C00539,Grace,Zhang,grace.zhang642@yahoo.com,3392652436,  GHA ,2024-07-31,Small Business
+C00692,GRACE,Wang,GRACE.WANG741@YAHOO.COM,2701375885,IRL,2023-11-22,CONSUMER
+C00396,N/A,Davis  , noah.davis143@outlook.com,N/A,mex,2024-10-14,STUDENT
+C00459,Anna,Lee,anna.lee770 @company.com,(105) 523-3123,CAN,2023-03-20,Student
+C00517,Elena,Li,ELENA.LI800@COMPANY.COM,7212672798,AUS,2024-08-03,Small Business
+C00095,Elena,Wang,elena.wang503 @gmail.com,NULL,EGY,2024-11-05,Corporate
+C00873,Elena  ,Cruz,ELENA.CRUZ536@GMAIL.COM,+66-335-4694570,pol,2022-08-25,small business
+C00278,Raj,Davis, raj.davis25 @outlook.com,6609958964,CHN,2022-11-30,Small Business
+C00756,Aisha,Miller,AISHA.MILLER424@YAHOO.COM,8543293236,ITA,2023-03-19,Student
+C00483,olivia,Rossi,olivia.rossi742@gmail.com,(675) 859-4746,GBR,04-24-2023,Corporate
+C00044,Daniel,ALI, DANIEL.ALI337@GMAIL.COM,(983) 835-8713,SAU,2025-06-22,Consumer
+C00158,Anna,Johnson,anna.johnson768@gmail.com,+71-843-6716053,GBR,2022-09-21,Corporate
+C00350,Emma,Ivanov,emma.ivanov488@company.com,NULL,POL,2024-05-11,Corporate
+C00129,James  ,martin,JAMES.MARTIN538@OUTLOOK.COM,+61-510-9507953,CHN,2025-06-23,Consumer
+C00766,James,Tanaka,james.tanaka249@yahoo.com,+55-891-9893796,IND,2022-12-25,Corporate
+C00514,Liam,Ali,LIAM.ALI711@YAHOO.COM,+83-443-7861222,KOR,2025-07-23,Corporate
+C00463,Luis,Zhang,luis.zhang758  @gmail.com,+48-529-5696475,IND,08-15-2023,CONSUMER
+C00622,daniel,Hassan  ,daniel.hassan55@outlook.com,+89-941-1326358,GRC,2024-06-10,Student
+C00259,  MEI ,ibrahim  ,mei.ibrahim489@yahoo.com,(598) 385-4463,POL,"Oct 11, 2024",Corporate
+C00660,DANIEL,Ali,DANIEL.ALI573@OUTLOOK.COM,(790) 647-8731,KOR,2023-02-11,Corporate
+C00933, lucas,Ivanov,LUCAS.IVANOV362@GMAIL.COM,+19-444-2757672,  GBR ,2024-01-14,Student
+C00390,Liam,GARCIA,LIAM.GARCIA955@YAHOO.COM,(272) 142-2924,AUS,2025-12-10,CORPORATE
+C00188, NOAH,Silva,noah.silva401 @company.com,9830393713,MEX,09-13-2024,Corporate
+C00290,YUKI,  Silva ,yuki.silva155@outlook.com,+19-604-7506379,ARE,2024-07-09,Small Business
+C00642,Rosa,Ibrahim, rosa.ibrahim385@yahoo.com,6182763009,NZL,2023-05-06,Small Business
+C00389,Daniel,Ivanov,DANIEL.IVANOV404@YAHOO.COM,(501) 429-3579,EGY,2024-11-12,Corporate
+C00772,Noah,Smith,NOAH.SMITH396@YAHOO.COM,NULL,UKR,2024-05-26,CONSUMER
+C00598, Carlos,LOPEZ,CARLOS.LOPEZ74@YAHOO.COM,4558251468,PHL,"Apr 03, 2025",Consumer
+C00596,Anna, Lopez,anna.lopez619@gmail.com,+11-937-6481165,SWE,2025-12-05, Consumer
+C00424,EMMA,Garcia,emma.garcia138@yahoo.com,+71-326-8062805,JPN  ,2024-02-14,Small Business
+C00765,NULL,MARTIN,aisha.martin455@outlook.com,2174336045, SGP,2025-06-28,Consumer
+C00232,Hiro  , CRUZ,hiro.cruz711@company.com  ,+65-934-5214454,KOR,07-19-2025,Corporate
+C00315,Carlos,Hassan  ,N/A,(789) 504-1327,usa,06-22-2022,Corporate
+C00646,Luis,Miller,luis.miller325@gmail.com,+39-516-1136920,CHN,2025-03-25,Corporate
+C00167,Emma,Miller  ,emma.miller419@gmail.com,+69-864-5046832, KOR,08-18-2023,CONSUMER
+C00808,Yuki, Hassan,yuki.hassan29@gmail.com,1677541437,FRA,2025-12-06,small business  
+C00484,Anna, Tanaka,anna.tanaka158@gmail.com,(407) 349-8055,NULL,2024-03-15,Consumer
+C00769,sofia,Wang,SOFIA.WANG692@OUTLOOK.COM,+86-239-6300978,AUS,03/11/2025,Student  
+C00470,LUCAS,Sharma,lucas.sharma458 @company.com,null,KOR,2023-07-04,Consumer
+C00125,Lucas,Park,LUCAS.PARK772@YAHOO.COM,+27-654-2620464,CAN,2024-12-13, Small Business
+C00254,Ethan,HASSAN,ETHAN.HASSAN61@GMAIL.COM,N/A,CHN,2023-04-18,Corporate
+C00161, Lucas,lopez,lucas.lopez174 @yahoo.com,(452) 239-7627,USA,2023-02-11,STUDENT  
+C00235,Liam,  tanaka ,liam.tanaka681 @outlook.com,+61-462-1211654,FRA,31/07/2024,Corporate
+C00800,Sofia,,sofia.zhang797@company.com,+57-507-9392397,CHN,2025-06-21,Consumer
+C00823,Mohammed,Park,mohammed.park973 @yahoo.com  ,(842) 127-7186,USA,2022-12-27,Consumer
+C00194,KENJI,Patel,kenji.patel336@yahoo.com,(684) 242-6363,CHN,2025-09-22,Corporate
+C00617,MARIA  ,lee,maria.lee153@gmail.com,(664) 677-5084,  COL ,2022-06-30,Student  
+C00641,GRACE,lee,grace.lee707 @company.com,, NGA,2023-10-15,Consumer
+C00802,Raj,Sato,  RAJ.SATO808@COMPANY.COM ,7505473261,VNM,31/08/2025,CONSUMER
+C00282,GRACE,Lopez,grace.lopez63 @yahoo.com,1539709649,DEU,2023-03-31,  Consumer 
+C00752,Daniel,Ibrahim,DANIEL.IBRAHIM549@COMPANY.COM,NULL, GBR,2025-10-08,Corporate
+C00543,anna,Ivanov,anna.ivanov261 @gmail.com,6896471678,AUS,2022-12-18,Corporate
+C00263,Ahmed,  Nguyen ,AHMED.NGUYEN735@YAHOO.COM,(361) 321-7732,MYS,2024-03-18,Consumer
+C00510,Mohammed,Smith,mohammed.smith388 @company.com,N/A,ARE,2024-01-04,Student
+C00073,Anna,Johnson,ANNA.JOHNSON155@OUTLOOK.COM,null, CHN,2024-05-14,Small Business
+C00450,  Liam ,Cruz,liam.cruz741@company.com,3900443486, GBR,2022-11-11,Consumer
+C00023,emma,Tanaka,emma.tanaka136@gmail.com,5828859294,,06-04-2024,Corporate
+C00347,Noah,Reyes,noah.reyes983@gmail.com,NULL,FRA,02/09/2022,NULL
+C00112,LUCAS,cruz,LUCAS.CRUZ623@OUTLOOK.COM,(642) 388-6588,  IND ,2025-01-25,Student
+C00247,DANIEL,Rossi,DANIEL.ROSSI697@GMAIL.COM,7536523492,CAN,23/01/2023,Corporate
+C00841,Hiro,Miller,hiro.miller462 @outlook.com,+95-302-2430670,GBR,2023-06-11,
+C00924,MOHAMMED,Smith,mohammed.smith704 @company.com,1440866732,MYS,2022-09-20,Small Business
+C00338,Mohammed,Li,mohammed.li580 @company.com,(254) 188-6509,ESP,31/05/2024,Consumer
+C00377,Maria,NGUYEN  ,MARIA.NGUYEN32@GMAIL.COM,5065299908,USA,2025-08-01,null
+C00121,Julia,LEE,julia.lee210@gmail.com,+75-811-5582437,bra  ,2022-08-01,Student
+C00571,,Brown,wei.brown504@outlook.com,(261) 689-9826,ZAF,2025-11-14,Student
+C00887,Carlos,Reyes  ,carlos.reyes692 @outlook.com,+93-553-2213021,THA,01-31-2023,Consumer
+C00182,Liam,Reyes,liam.reyes57@yahoo.com,(153) 937-8041,AUT  ,2025-02-18,Corporate
+C00916,Anna,lee,anna.lee344@gmail.com,(117) 552-4789,ARE,2025-04-24,CORPORATE
+C00850,ELENA,Patel,ELENA.PATEL431@COMPANY.COM,3054352464,CHN,12/06/2022,Small Business
+C00886,Liam,cruz,,3953725258,CAN,01/04/2023,Student
+C00614,Liam,Lee,LIAM.LEE626@OUTLOOK.COM,7429047487,CHN,"Aug 19, 2022",CORPORATE
+C00905,Elena,Brown,  elena.brown58 @company.com ,(263) 594-3673,IDN,2022-10-04,Consumer
+C00892,Rosa,Li,rosa.li205 @yahoo.com,1738668338,bra,"Sep 27, 2024",  Student 
+C00092,Yuki,PATEL,null,+2-104-6483795,hkg,2023-08-22,Corporate
+C00655,  Olivia ,Ivanov,olivia.ivanov995@outlook.com,(397) 998-5467,PHL,2024-09-18,Corporate
+C00340,James,patel,JAMES.PATEL868@GMAIL.COM  ,,FRA  ,2025/03/31,corporate
+C00482,SOFIA,Park,sofia.park395@company.com,6605256729,KOR,16/06/2025,Small Business
+C00041,FATIMA,Santos,fatima.santos339@gmail.com,(360) 674-9864,KOR,2023-12-26,Corporate
+C00544,Olivia,Sato,olivia.sato656@gmail.com,(847) 604-9014,GRC,2025-07-13,Small Business
+C00198,liam,Lopez,liam.lopez362@outlook.com,+74-205-6707375,ESP,2024/05/04,Corporate
+C00086,Rosa,hassan,rosa.hassan664 @outlook.com,(754) 515-6126,kor,19/02/2025,Small Business
+C00062,Olivia,IBRAHIM,OLIVIA.IBRAHIM846@GMAIL.COM,8546174134,KOR,2023-03-14,Corporate
+C00433,Julia,tanaka,julia.tanaka894 @gmail.com,6986354135,IND,02-16-2023,Small  Business
+C00866,Kenji,Cruz  ,kenji.cruz559@outlook.com,+28-892-9805217,N/A,2023-05-18,Corporate
+C00632,Fatima,Lee,FATIMA.LEE259@COMPANY.COM,(734) 615-9494,COL,2025-01-19,Small Business
+C00695,MARIA,Lee,maria.lee901 @company.com,+60-417-8714695,IND,2024-05-24,Student
+C00436,ELENA,  Zhang ,ELENA.ZHANG282@YAHOO.COM,3718004140,nor,"Dec 29, 2024",SMALL BUSINESS
+C00846,AISHA,miller,AISHA.MILLER647@OUTLOOK.COM,(969) 974-5785,FRA,2025-03-31,Corporate
+C00581,AHMED,Cruz,AHMED.CRUZ915@GMAIL.COM,+65-149-8363445,ZAF,2023-08-13,Student
+C00146,Grace,Muller,grace.muller921 @outlook.com,+68-259-9724962,ITA,06/02/2024,STUDENT
+C00565,Rosa,Santos,rosa.santos328@gmail.com,(113) 686-7102,nga,2024-08-23,STUDENT  
+C00289,Chen,Zhang,chen.zhang758@yahoo.com  ,(813) 454-7814,FRA,12-17-2024, Student
+C00615,Julia,Sharma, julia.sharma861 @company.com,1638284656,gbr,"Oct 20, 2025", Small Business
+C00417,Emma, Reyes,emma.reyes448 @outlook.com,+94-985-4779679,DEU,2023-08-21,Consumer
+C00370,noah,zhang,noah.zhang97@outlook.com,+84-976-6895559,KOR,2022-10-16,Consumer
+C00947,kenji,DAVIS,KENJI.DAVIS669@COMPANY.COM,,USA,2024-12-03, small business
+C00360,Kenji,LEE, kenji.lee409@outlook.com,,IND  ,2024-04-10,Small Business
+C00687,Elena,kim,elena.kim860@company.com,2174744048, SAU,2025-05-06,Student
+C00549,Elena,Ibrahim,ELENA.IBRAHIM777@OUTLOOK.COM,8285480060,DEU,2023-07-28,Consumer
+C00303,ELENA,Ivanov,elena.ivanov297 @gmail.com,(412) 782-9861,GBR,2023-01-04,CORPORATE
+C00730,yuki  ,davis,,+26-511-2450355,dnk,"Apr 03, 2023",Consumer
+C00542,Hiro,GARCIA,hiro.garcia499@company.com,(979) 334-5714,DEU  ,2023-11-20,Corporate
+C00395,Anna,ALI,anna.ali766 @outlook.com,(515) 260-3750,  USA ,2022-09-16,Consumer
+C00474,Priya  , Lopez,PRIYA.LOPEZ22@COMPANY.COM,+64-998-2921689,GHA,10-08-2025,Corporate  
+C00258,Fatima,hassan,fatima.hassan84 @outlook.com  ,(660) 484-3532,ARE,2024-04-10,Consumer
+C00609,DANIEL,Smith,daniel.smith993 @yahoo.com,(723) 325-7028,AUT,2025-10-04,Small Business
+C00630,Chen,Patel,chen.patel820 @gmail.com,(153) 938-8437,MEX,2022-06-18,corporate
+C00423,Liam,Ibrahim,liam.ibrahim957 @gmail.com,(563) 570-3017,BRA,2022-06-04,Student
+C00300,Grace,Lee,GRACE.LEE516@GMAIL.COM,(485) 477-7541,ind,2022-12-10,Small Business
+C00673,Liam  ,Garcia,LIAM.GARCIA55@YAHOO.COM,+22-459-7551864,phl,2025/07/30, Student
+C00039,Fatima,Cruz,fatima.cruz321 @yahoo.com  ,N/A,AUT,2023-03-14,STUDENT  
+C00301,Sofia,ROSSI, sofia.rossi334 @yahoo.com,,PHL,2025-03-16,Small Business  
+C00042,Anna,,anna.miller791@outlook.com  ,(179) 153-3244,ESP,2023-01-27,Student
+C00014, Julia,Ibrahim,julia.ibrahim675 @outlook.com,(702) 694-6703, BRA,2023-04-22,Student
+C00051,Fatima,Sharma,fatima.sharma404@yahoo.com,7858800225, TWN,2023-05-31, Small Business
+C00006,Carlos,Ibrahim,CARLOS.IBRAHIM97@GMAIL.COM,(215) 376-9508,mar,2023-03-18,Student
+C00624,ROSA, Cruz,rosa.cruz77 @company.com,+61-990-7168683,AUS,2023-03-01,Small Business
+C00829,AHMED,Santos,ahmed.santos783@outlook.com,+72-931-6915978,FRA,2024-10-06,CONSUMER
+C00317,Liam,Patel,LIAM.PATEL248@GMAIL.COM,+86-352-2441971,AUS,2023-01-23,Student
+C00368,ethan,reyes,ETHAN.REYES507@YAHOO.COM  ,(686) 361-8350,DNK,2025-06-02,Corporate
+C00444,raj,Ivanov  ,  RAJ.IVANOV376@GMAIL.COM ,4698593479, TWN,2024-09-21,Small Business
+C00279,anna,garcia,ANNA.GARCIA24@COMPANY.COM,+57-180-2843983,KEN,2022-06-17,Corporate
+C00261,Ethan,Santos  ,ethan.santos468@company.com,+88-932-2241975,TUR,07-30-2022,SMALL BUSINESS
+C00626,Carlos, SATO,carlos.sato934@outlook.com  ,+14-608-7075376,BRA,2025-12-05, CORPORATE
+C00585,Kenji,Kim,kenji.kim791@gmail.com,,SWE,2023-12-30,corporate
+C00020,maria,Lopez,  maria.lopez450 @yahoo.com ,(830) 409-7011,AUT,2025-06-13,Student
+C00491,Liam,Sato,liam.sato307 @yahoo.com,(517) 250-2879,IDN,"Apr 26, 2024",Corporate
+C00397,Raj,Lopez,RAJ.LOPEZ184@OUTLOOK.COM,(840) 571-3017,THA,2025-08-22,Small Business
+C00054,grace  ,Johnson,GRACE.JOHNSON50@COMPANY.COM,6062598979,JPN,2022-08-14,CORPORATE  
+C00656,Noah  ,Sato,noah.sato141@yahoo.com,+94-884-8466209,USA,2024-03-27,Consumer
+C00358,ahmed,Tanaka  ,ahmed.tanaka198 @yahoo.com,2160598266,ITA,2025-11-04,consumer
+C00650,  MEI ,Nguyen,mei.nguyen121@company.com,N/A, GBR,"Oct 27, 2025",Student
+C00311,Rosa,ivanov,ROSA.IVANOV509@GMAIL.COM,9111727831,MEX,2022-07-30,Small Business
+C00081,Sofia,patel,sofia.patel163 @gmail.com,null,VNM,2025-09-29,student
+C00264,PRIYA,Silva  ,PRIYA.SILVA101@COMPANY.COM,9363309372,chn,2022-08-11,Consumer
+C00230,julia,Lopez,julia.lopez306 @outlook.com,8684460654,PHL,2025-06-05,Small Business
+C00102,Rosa,Zhang,rosa.zhang676@outlook.com,(445) 664-3567,IRL,2023-07-28,Small Business
+C00682,Grace  ,Brown,,,CAN,10-08-2022,Corporate
+C00037,Ethan,Silva,ethan.silva880@outlook.com,9447712449,N/A,15/08/2024,
+C00249,Emma,hassan,EMMA.HASSAN516@YAHOO.COM,NULL,BRA,2024-08-22,Consumer
+C00612,Lucas,Ivanov,LUCAS.IVANOV958@GMAIL.COM,+47-851-9591642,IND,,Student
+C00616,Wei,ibrahim,WEI.IBRAHIM986@YAHOO.COM,1230339523,BRA,08/08/2022,Small Business
+C00324,Isabel,null,,+5-132-6624077,kor,2022-06-21,SMALL BUSINESS  
+C00511,anna,  Smith ,anna.smith461 @outlook.com,(354) 682-7994,TWN,2022-12-14,SMALL BUSINESS
+C00404,Ethan,Rossi,ethan.rossi15@outlook.com,(260) 835-9979,CAN,2022-12-31, Small Business
+C00120,,Reyes,priya.reyes961@yahoo.com,5524910586,USA,01-31-2024,small business
+C00050,Mohammed,Park,mohammed.park612@yahoo.com,,EGY,04-12-2023,SMALL  BUSINESS
+C00179,Yuki,Garcia,YUKI.GARCIA904@COMPANY.COM,+65-978-7831640,IND,2025-10-06,Student
+C00578,Noah,SMITH,noah.smith935@gmail.com,+63-951-9614165,ESP,2023-10-11,Student
+C00010,Chen, Lee,chen.lee702@outlook.com,+79-409-5070918,null,2024-12-29,Small Business
+C00698,Aisha,Wang,aisha.wang706 @company.com,+80-352-9382579,CAN,2024-08-27,Student
+C00943,ELENA,Khan,elena.khan212 @gmail.com  ,,USA,2024-03-11,Student
+C00430,Carlos,Smith  ,carlos.smith98@company.com,+76-233-4090182,ESP,2022-09-03,Corporate
+C00334,Luis,Brown,luis.brown706@outlook.com,+2-401-2462804,AUS,2025-12-15,Consumer
+C00379,julia, Sharma,julia.sharma953@yahoo.com,+32-109-4064184,JPN,2024-01-23,SMALL BUSINESS
+C00087,Aisha,Nguyen,aisha.nguyen596@outlook.com  ,(236) 494-2697,ESP,2022-11-16,Consumer
+C00371,DANIEL,Garcia  ,daniel.garcia961@gmail.com,+72-494-1342823,USA,2024-10-18,Consumer
+C00057,Mei,NULL,MEI.MARTIN624@COMPANY.COM,null,ISR,08/05/2024,Small Business
+C00504,Ahmed,  Park ,ahmed.park351 @gmail.com,(283) 208-3985,  USA ,2023-09-21,SMALL BUSINESS
+C00323,ETHAN,HASSAN,null,+61-254-7539332,JPN,2023-03-23,corporate  
+C00781,anna,garcia,  ANNA.GARCIA304@COMPANY.COM ,(912) 331-5430,GBR,2024-08-30,Student
+C00190,Ahmed,  Brown ,ahmed.brown24@company.com,+92-275-4399375,deu,2022-12-26,student
+C00931, Noah,PARK,,(293) 304-2668,ARG,,Student
+C00662,  Ahmed ,Miller,ahmed.miller469 @outlook.com,1793386411,FRA,2022-09-24,Consumer
+C00657,Ahmed, Martin,AHMED.MARTIN620@GMAIL.COM,(675) 378-4093, ISR,"May 20, 2023",Small Business
+C00082,Julia, Tanaka,  JULIA.TANAKA401@YAHOO.COM ,+87-255-4453272,CHL,2025-10-08,Small Business
+C00726,Priya,Smith,PRIYA.SMITH56@OUTLOOK.COM,3005286523,PAK,2023-05-30,Consumer
+C00889,AISHA,Ibrahim,AISHA.IBRAHIM242@GMAIL.COM,(822) 801-6680,bra,11-30-2023,Small Business
+C00335,Hiro, Garcia,,(191) 228-1481,N/A,2024-11-08,Small Business
+C00446,Isabel,Muller,ISABEL.MULLER119@YAHOO.COM,+57-249-3763744,USA,2022-08-23,
+C00809,null,  davis ,ethan.davis405 @yahoo.com,2051772590,USA,2022-06-16,Consumer
+C00864,kenji  ,Martin,kenji.martin228@gmail.com,+68-380-7087329,THA,07-14-2024,SMALL BUSINESS
+C00270,aisha,Johnson,aisha.johnson28 @outlook.com  ,(737) 454-6751,IND,2025-10-13,Student
+C00553,Aisha  ,Hassan,AISHA.HASSAN71@OUTLOOK.COM,+32-168-5176993,GBR,2025-07-02,  Small Business 
+C00728,Sofia  ,REYES,sofia.reyes502 @gmail.com,(229) 717-2335,POL,27/01/2024, Small Business
+C00619,liam,Miller,LIAM.MILLER741@GMAIL.COM,3944852558,BGD,2025-10-23,STUDENT
+C00583,YUKI,LI,,(261) 729-6033,PAK,2023/12/22,Student
+C00102,Rosa,Zhang,rosa.zhang676@outlook.com,(445) 664-3567,IRL,2023-07-28,Small Business
+C00551,Mei,Miller, MEI.MILLER11@COMPANY.COM,null,USA,2024-02-04,CORPORATE
+C00012,Maria,Lee,maria.lee125 @outlook.com,+82-122-4100561,IND,2025-03-06,Student  
+C00699,Fatima, Johnson, fatima.johnson74 @yahoo.com,+70-918-5995921,SGP,09-09-2024,CONSUMER  
+C00322,  Raj ,NGUYEN,RAJ.NGUYEN525@COMPANY.COM  ,6824402929, MEX,2025-09-24,corporate
+C00240,Emma  ,ROSSI,emma.rossi666 @yahoo.com,(135) 103-4253,THA,,Small Business
+C00024,Hiro,Silva,hiro.silva565@outlook.com,3811489153,TWN,2023-11-13, Small Business
+C00620,PRIYA, Khan,priya.khan177@gmail.com,(873) 802-4788,FRA  ,27/08/2025,corporate
+C00562,Hiro,Lopez,HIRO.LOPEZ543@GMAIL.COM,+55-663-9892494,HKG,2022-11-01,Consumer
+C00716,noah,Martin,noah.martin298 @gmail.com,(874) 828-3197,ZAF,"Dec 12, 2024",Small Business
+C00354,mohammed,Miller,MOHAMMED.MILLER204@YAHOO.COM,(327) 676-1532,BRA,2024-05-17,small business
+C00637,Yuki,Davis,N/A,(229) 906-8250,USA,2024-04-23,Student
+C00036,James, Garcia,james.garcia866 @gmail.com,null,USA,2022-07-01,CORPORATE
+C00163,Priya,li,priya.li697 @outlook.com,+36-547-1820966,CHL,07-23-2023,Corporate
+C00462,priya  ,Lopez, priya.lopez870@company.com,(497) 936-5147,CHN,"Aug 24, 2025",Corporate
+C00691,Liam,Rossi,liam.rossi120@gmail.com,9427513323,IND,2025-05-26,Student
+C00718, Carlos,Rossi,CARLOS.ROSSI373@YAHOO.COM,+20-602-3475063,GRC,2023-07-19,CONSUMER
+C00123,Daniel,Ivanov,DANIEL.IVANOV382@COMPANY.COM  ,(561) 871-9834,BRA,2025-12-02,Corporate
+C00651, Carlos,Ibrahim,carlos.ibrahim254 @yahoo.com,+36-771-1814637,THA,2025-05-30,Corporate
+C00885,fatima  ,Cruz,fatima.cruz911@outlook.com,3562814290,MYS,2024-05-09,Student
+C00452,ELENA,Tanaka,ELENA.TANAKA48@OUTLOOK.COM,4561474064,SAU,10-07-2023,Student
+C00394,Carlos,Patel,carlos.patel139 @gmail.com,N/A,NLD,2024-01-26,Small Business
+C00872,Fatima,Smith,,(118) 240-7486,JPN,2024-10-29,Consumer
+C00344,Maria,SMITH,N/A,7663581771,ESP,2024-05-31,Consumer
+C00025, AISHA,Wang,AISHA.WANG520@COMPANY.COM,+42-721-7044611,PHL,04/01/2023,Small Business
+C00621, Luis,Wang,LUIS.WANG164@YAHOO.COM,6687182978,USA,2023-07-02,Consumer
+C00677,sofia,Brown,sofia.brown953@yahoo.com,+31-616-8581177,MEX,2022-06-02,Consumer
+C00433,Julia,tanaka,julia.tanaka894 @gmail.com,6986354135,IND,02-16-2023,Small  Business
+C00138,Raj,Ivanov,raj.ivanov281 @yahoo.com,(120) 602-8148,GBR,2023/12/04,student
+C00820,YUKI,Brown,YUKI.BROWN799@GMAIL.COM,NULL,VNM,02-18-2024,CORPORATE  
+C00904,Lucas,Sato,lucas.sato808@yahoo.com,7799227606,GBR,2024-08-15, Consumer
+C00773,ISABEL,REYES,isabel.reyes834 @yahoo.com,+91-588-5976940,CAN,2025-09-10,Small Business
+C00785,Fatima,Muller, fatima.muller742@gmail.com,(769) 293-3048,USA,2025-10-16, Student
+C00369,Grace, Kim,GRACE.KIM203@COMPANY.COM,5687399535,CHN,2023-08-26,STUDENT
+C00151,Lucas,Rossi,lucas.rossi594 @yahoo.com,+5-472-3626153,VNM,2025-01-05,Small Business
+C00250,Ahmed,Rossi,ahmed.rossi110@gmail.com,(245) 436-5832, MEX,2023-05-11,Small Business
+C00490,PRIYA,Ali,priya.ali666@yahoo.com,7319531805,RUS  ,21/01/2024,small business  
+C00711,Fatima,reyes,fatima.reyes839 @yahoo.com,(664) 675-6168,USA,08-08-2022,STUDENT
+C00874, Grace,Park,GRACE.PARK243@OUTLOOK.COM,(137) 382-1652,THA  ,2024-08-06,Student
+C00761,Ahmed,Silva,ahmed.silva913@company.com,(721) 649-2376,zaf,2023-04-26,CORPORATE
+C00709,Mei,Ivanov,MEI.IVANOV945@GMAIL.COM,7434846251,DEU,2022-10-14,Student
+C00642,Rosa,Ibrahim, rosa.ibrahim385@yahoo.com,6182763009,NZL,2023-05-06,Small Business
+C00306,Noah,  Reyes ,noah.reyes490@yahoo.com,6405730878,GHA,2025-10-13,Corporate
+C00882,Raj,ALI,RAJ.ALI253@GMAIL.COM,3200624628,CHL,19/05/2024,null
+C00878,noah,NULL,,+16-152-8093553,SWE,2025-03-27,small business
+C00187,Liam  ,Smith,LIAM.SMITH576@COMPANY.COM,+33-963-4221911,GBR,08-23-2022,null
+C00401, WEI,Nguyen,WEI.NGUYEN565@YAHOO.COM,+20-231-9267193,GBR,2024-08-24,null
+C00856,Carlos,Li,N/A,(877) 711-8735,IND,2022-10-10,Student
+C00148,Luis,park,LUIS.PARK504@COMPANY.COM,+13-184-2380936,MYS,,consumer
+C00489,Noah,Tanaka,noah.tanaka21 @yahoo.com,+76-652-3396435,jpn,2025-05-23,Consumer
+C00047,Priya,Sato,PRIYA.SATO966@YAHOO.COM,(194) 601-6818,NLD,05-16-2023,student
+C00133,anna,hassan,anna.hassan530@gmail.com,8841473055,IND,2023-03-13,Corporate
+C00810,Hiro,nguyen,hiro.nguyen841@yahoo.com,+10-420-5776107,USA,,NULL
+C00380,Noah,,noah.brown514 @gmail.com,5805451813,USA,2023/04/08,Corporate
+C00294,Maria  ,BROWN,maria.brown588@yahoo.com,3312094332,null,2023-01-11,Consumer
+C00015,AHMED,Muller,  AHMED.MULLER940@YAHOO.COM ,(278) 428-2763,tur,2023-07-06,Small Business
+C00053, James,Cruz  ,james.cruz670@company.com,9468688732,DNK,21/04/2024,small business
+C00141,Sofia,Garcia,  sofia.garcia481 @yahoo.com ,(100) 394-8549,BRA,2024-09-05,Small Business
+C00595,Julia,Miller, JULIA.MILLER571@YAHOO.COM,(105) 967-4781,  AUT ,2022/12/20,Student
+C00552,Elena,reyes,elena.reyes305 @outlook.com,(915) 916-1543,KOR,2023-02-23,Consumer
+C00100, PRIYA,Tanaka,priya.tanaka7 @company.com  ,(560) 866-4893,GBR,2025-02-06,Small Business
+C00425,Ahmed,Reyes,  ahmed.reyes359@gmail.com ,(168) 681-6844,SWE,2025-09-06,Student
+C00818,Emma,Patel,EMMA.PATEL652@YAHOO.COM,+25-320-6695030,CAN,2025-08-22,Corporate
+C00868,RAJ,Muller  ,  raj.muller670@yahoo.com ,+54-721-8216069,ita,10-12-2025,Small Business
+C00922, Fatima,Miller,fatima.miller142 @yahoo.com,+43-547-6843239,MEX,14/02/2024,Consumer
+C00647,Lucas,kim,lucas.kim914@company.com,3158224494, USA,2025-10-16,Consumer
+C00586, carlos, brown,carlos.brown550@company.com,+69-132-3558518,MYS,2022-12-07,Consumer
+C00929,Chen,SATO  ,chen.sato64@outlook.com,+24-772-4554947,jpn,2024-09-16,Student
+C00221,Grace,Muller,GRACE.MULLER16@GMAIL.COM  ,(520) 156-3594,CHN,"Dec 12, 2022",Consumer
+C00009,Luis,Lee  ,LUIS.LEE364@YAHOO.COM,6151841907,NZL,06-11-2023,STUDENT
+C00478,Noah,LEE,noah.lee242 @company.com,(542) 545-8272,USA,2024-12-03,Student
+C00080,YUKI,Santos,yuki.santos850@gmail.com,+24-507-9571557,IND,2025-07-27,Small Business
+C00638,Carlos,,carlos.smith518@company.com,+82-455-7178762,zaf,20/03/2025,Consumer
+C00505,Olivia,rossi,olivia.rossi240 @gmail.com,6608599560,THA,2025-11-03,Consumer
+C00838,Anna,Park, anna.park46@yahoo.com,+31-376-8102763,MYS,17/02/2023,Student
+C00236,Olivia,SILVA,olivia.silva916@yahoo.com,7464597868,AUS,2024-06-06,Corporate
+C00059,Raj,Sato,raj.sato109@outlook.com,4896741733,POL,2025-11-21,Student
+C00702,Sofia  ,Ibrahim,SOFIA.IBRAHIM898@COMPANY.COM,(620) 665-9782,FRA  ,2025-05-08,Corporate
+C00262,,Wang,DANIEL.WANG821@YAHOO.COM,8303274954,DEU,2023-11-04,Student
+C00195,FATIMA,Reyes,fatima.reyes17 @yahoo.com,(720) 445-9391,NLD,2025/06/22,Consumer
+C00117,Kenji  ,muller,kenji.muller406@yahoo.com,+7-758-4783595,idn,2025-12-21,Small Business
+C00744,yuki  ,IBRAHIM,yuki.ibrahim945 @outlook.com,+45-385-3520838,AUS,2025-11-26,Corporate
+C00911,KENJI,Smith,KENJI.SMITH259@COMPANY.COM,null,GBR,2023-09-18,Student
+C00502,Raj,DAVIS,raj.davis361 @company.com,N/A,PAK,22/01/2023,  Corporate 
+C00251,Olivia,  Martin ,olivia.martin964 @gmail.com,+2-261-8007520,MEX,2025-09-17,SMALL BUSINESS
+C00610,  ISABEL ,NULL,ISABEL.SILVA874@GMAIL.COM,(662) 683-6843, GBR,2024/05/14,corporate
+C00027,Lucas,Tanaka,LUCAS.TANAKA456@COMPANY.COM,6527129795,GHA,07-11-2023,consumer
+C00226,Olivia,Ivanov,OLIVIA.IVANOV492@YAHOO.COM  ,(940) 994-4351,aut,2022/06/01,Consumer
+C00346,Mei,JOHNSON,MEI.JOHNSON616@GMAIL.COM,+50-815-5878842,,2023-12-18,Corporate
+C00341,ISABEL,SANTOS,  isabel.santos564@gmail.com ,(146) 899-2719,TWN,2024-05-27,Consumer
+C00605,FATIMA,N/A,fatima.ibrahim263@yahoo.com,(294) 785-5451,AUS,2024-04-08,  Student 
+C00338,Mohammed,Li,mohammed.li580 @company.com,(254) 188-6509,ESP,31/05/2024,Consumer
+C00096,Liam,khan,LIAM.KHAN469@YAHOO.COM,+38-104-5033031,AUS,13/10/2024,Small Business
+C00714,Grace,Ibrahim,grace.ibrahim845 @company.com,(597) 248-4076,IND,2024-05-28,small business
+C00442,Yuki,sato,yuki.sato156 @gmail.com,(271) 430-3875,CHN  ,14/06/2024,Consumer
+C00736,Mei,Rossi,mei.rossi585 @yahoo.com,,COL,15/12/2025,consumer
+C00071,Rosa,patel,rosa.patel927@company.com,+3-243-2999683,CHN,2025-08-02,Small Business
+C00587,Isabel,Lopez,isabel.lopez752 @outlook.com,+9-146-4698444,GBR,2025-12-19,Small Business
+C00786,Maria,johnson,maria.johnson46@gmail.com,(390) 301-7349,USA,"Jul 21, 2024",Student
+C00093,Lucas,Reyes,lucas.reyes901@yahoo.com,+38-210-6856154,ESP,2024-12-18,Student
+C00834,julia, REYES,JULIA.REYES713@OUTLOOK.COM,+7-650-3269858,ARE  ,01/05/2025,  Consumer 
+C00219,Anna,Sato,anna.sato604@gmail.com,+31-656-2139922,MEX,2023-11-06,Small Business
+C00412,ROSA,  Ivanov ,rosa.ivanov714 @outlook.com,6006842444,isr,2022-06-06,Corporate
+C00715,Priya,JOHNSON,priya.johnson793 @gmail.com,+95-613-8608176,USA,01-22-2023,  Consumer 
+C00679,,,RAJ.LOPEZ866@COMPANY.COM,4797943197,ZAF,19/07/2025,Consumer
+C00661,Grace,Martin,GRACE.MARTIN484@GMAIL.COM,+67-909-5657275,ARE,2023-11-04,Consumer
+C00923,Raj,Wang,RAJ.WANG802@OUTLOOK.COM,(366) 465-4468, USA,2025-07-01,Student
+C00506,Anna,sato,anna.sato969@gmail.com,(823) 400-1183,CHN,2023-12-06,Corporate  
+C00698,Aisha,Wang,aisha.wang706 @company.com,+80-352-9382579,CAN,2024-08-27,Student
+C00427,Mei,zhang,mei.zhang713 @gmail.com,NULL,ARE,2024-10-18, Small Business
+C00421,Mei,Patel,mei.patel71@outlook.com,(844) 225-6658,ARG,06/12/2025,Consumer
+C00391,CARLOS, Muller,carlos.muller400@company.com,+84-512-1542718, ITA,2023-12-11,Student
+C00017,AISHA,Khan,AISHA.KHAN511@YAHOO.COM  ,3471134681,JPN,2025/01/20,CONSUMER
+C00852, ISABEL,MULLER,isabel.muller479 @gmail.com,+57-876-4888833,THA,2022-08-06,corporate
+C00945,YUKI,li,yuki.li827@outlook.com,(200) 543-5429, AUT,2024-01-11,Corporate
+C00762,Anna,Rossi,anna.rossi758 @company.com,+64-692-7756851,BGD,2024-03-15,Consumer
+C00222,Daniel, Li,daniel.li610 @company.com,+66-131-2184628,usa,"May 04, 2025",Student
+C00241,Wei,N/A,wei.rossi21@gmail.com,(101) 927-8323,AUS,2023-12-03,Consumer
+C00835,NOAH,Lopez,noah.lopez820 @company.com,null,POL,2025-02-03,consumer
+C00103,kenji,Ivanov,kenji.ivanov589 @yahoo.com,+5-792-2628473,CHN,2023-04-05,Consumer
+C00302,JULIA,Silva,julia.silva822 @outlook.com,(396) 423-1161,CHN,2024-03-31,  consumer 
+C00437,Chen  ,Reyes,chen.reyes681 @gmail.com,N/A,DEU,27/07/2022,Corporate
+C00381, isabel,Ibrahim,isabel.ibrahim640 @company.com,+7-362-4120482,BGD,2025-08-09,Small Business
+C00072,Kenji,Wang,KENJI.WANG753@GMAIL.COM,(576) 562-3493,isr,2024-11-02,
+C00476,Wei,Tanaka,wei.tanaka789 @company.com,+98-685-6085171,ESP,2022-11-28,null
+C00225,Elena,Hassan  ,  ELENA.HASSAN255@OUTLOOK.COM ,+46-693-5079515,USA,2025-05-30,Corporate
+C00363,Sofia  ,smith,SOFIA.SMITH758@OUTLOOK.COM,+75-501-3831541,BRA,09-08-2024,Small Business
+C00754,Olivia,kim,olivia.kim667@yahoo.com,+88-692-4138788,N/A,2022-06-07,Small Business
+C00498,Mei,Lopez,mei.lopez223 @outlook.com,(526) 897-2585,USA  ,2025-04-13,Student
+C00528,james,GARCIA,james.garcia917@yahoo.com,,ISR,2022-11-24,corporate
+C00349,Mohammed, davis,MOHAMMED.DAVIS75@OUTLOOK.COM,8876564065,MYS,"Jul 29, 2023",Corporate
+C00170,Fatima,Sharma,fatima.sharma581 @yahoo.com,(193) 995-2889,CHN,2023-01-18,CORPORATE
+C00946,Emma,N/A, emma.tanaka658 @outlook.com,+55-690-6389340,PRT,2023-12-22,Student
+C00567,Daniel,Santos,daniel.santos862@gmail.com,(179) 539-4457,GBR,"Jan 11, 2025",Small Business  
+C00606,James,Reyes,james.reyes621 @gmail.com,,TUR,NULL,Small Business
+C00493,MEI,  Wang ,mei.wang383 @yahoo.com,+64-668-1574034,MYS,05/09/2022,SMALL BUSINESS
+C00504,Ahmed,  Park ,ahmed.park351 @gmail.com,(283) 208-3985,  USA ,2023-09-21,SMALL BUSINESS
+C00288,Luis,Sato,luis.sato652@company.com  ,(744) 251-6562,ZAF,2025-09-10,Student
+C00548,rosa,Rossi,rosa.rossi186 @company.com,4445711996,SAU  ,2025-02-26,Corporate
+C00581,AHMED,Cruz,AHMED.CRUZ915@GMAIL.COM,+65-149-8363445,ZAF,2023-08-13,Student
+C00140,Rosa,zhang,rosa.zhang181@outlook.com,(666) 879-7044,SGP,28/03/2024,Consumer
+C00060, Daniel,Sato,daniel.sato484@gmail.com,+31-279-8921679,can,2025-10-18,Corporate
+C00832,Liam,  Santos ,  LIAM.SANTOS148@YAHOO.COM ,(149) 351-4315,ken,2023-12-29,Corporate
+C00530,Julia, Sato,julia.sato24@yahoo.com,(369) 561-7539, CHN,2023-11-09,Small Business
+C00884,raj,Hassan,RAJ.HASSAN911@GMAIL.COM,+84-673-7456703,NULL,2024-06-18,Corporate
+C00764,Olivia,Ali,olivia.ali960@gmail.com,+76-997-3763919,SAU,18/11/2025,Consumer
+C00668,ethan,TANAKA,ethan.tanaka510 @yahoo.com,+1-656-6237747,idn,2023-02-09,Corporate
+C00579, Ethan,SHARMA,ethan.sharma362 @company.com,+62-280-9791351,UKR,2024-01-16,null
+C00184,Wei,Muller,wei.muller297 @outlook.com,+81-530-7306018,GBR,2024-07-26,null
+C00569,Luis  ,Kim,luis.kim619 @company.com,(646) 762-1307,ZAF,12/09/2022,SMALL BUSINESS  
+C00822,Liam,Sato,liam.sato930@company.com,+84-177-9875688,AUS,2024/03/26,Consumer  
+C00029,Lucas,null,lucas.lopez752 @yahoo.com,+23-620-5685869,NZL,2024-10-21, Corporate
+C00524,  Liam ,  Lee ,liam.lee376@gmail.com,5805756498, MYS,2024-02-12,Consumer
+C00798,Ethan,Lopez,ethan.lopez985@gmail.com,3165722328,AUT,2023-02-25,Consumer
+C00128,Maria,ALI,maria.ali616 @outlook.com,+99-485-1736094,ITA,03/05/2023,Consumer
+C00684,aisha,Martin,AISHA.MARTIN912@GMAIL.COM,6468245579,NULL,03-24-2025,Student
+C00104,Ethan,Santos,ethan.santos487 @outlook.com,+72-665-8878038,FRA,13/09/2025,Student
+C00741,Mei,zhang,MEI.ZHANG802@COMPANY.COM,1532103885,NZL,2023-02-06,  Corporate 
+C00566,GRACE,Silva, GRACE.SILVA158@YAHOO.COM,(785) 235-1453,  IND ,26/07/2025,small business
+C00271,Isabel  ,Patel,isabel.patel848 @yahoo.com,NULL,CAN,2022-09-09,Corporate
+C00210,ethan,Lee,ethan.lee769 @gmail.com,+45-955-3734765,BRA,2025-09-14,Consumer
+C00134,  Anna ,Nguyen,ANNA.NGUYEN818@COMPANY.COM,(834) 377-8521,USA  ,2024/07/11,CONSUMER
+C00912,Julia,ali,JULIA.ALI519@OUTLOOK.COM,+77-499-2082468,USA,2024-11-15,Corporate
+C00520,Julia,rossi,julia.rossi671@company.com,,POL,2024-06-10,Student
+C00935,, BROWN,EMMA.BROWN773@YAHOO.COM,9313972765,CHN,2025-05-20,Corporate
+C00938,Ahmed,PATEL,ahmed.patel690@company.com,+42-290-1119698,can,2023-02-23,Corporate
+C00365,Mohammed,Sato,mohammed.sato41 @gmail.com,+39-956-8779265, MEX,2024-12-31,Student  
+C00239,maria  ,MARTIN,maria.martin592 @yahoo.com,(620) 961-8878,CAN  ,2024-07-03,Consumer
+C00465,MARIA,Nguyen,maria.nguyen44 @gmail.com,9111377542,ARG,2025-02-15,Consumer
+C00837,ethan,Miller,ETHAN.MILLER7@GMAIL.COM,4382127871, CHN,"Feb 07, 2024",  Corporate 
+C00016, CHEN, MULLER,CHEN.MULLER809@YAHOO.COM,(952) 312-8761,ITA,2022-10-16,  Consumer 
+C00500, elena,Rossi,elena.rossi613 @yahoo.com,1827122866,KOR,2025-02-08,Small Business
+C00913,Elena,Park,ELENA.PARK835@GMAIL.COM,9763839720,BRA,2023-09-15,SMALL BUSINESS
+C00032,lucas,Muller,lucas.muller534 @outlook.com,(596) 933-4065,nld,23/04/2025,Consumer
+C00316,KENJI,REYES,NULL,(510) 171-6623,ZAF,2023-03-14,Small Business
+C00321,Julia, Khan,julia.khan776 @company.com,(553) 767-6884,vnm,,
+C00376,Chen,Reyes,chen.reyes950 @gmail.com,+7-205-7368860,bra,2025-01-30,Corporate
+C00314,elena,Li,elena.li108@gmail.com,(690) 111-1371,KOR,2025-08-17,Consumer
+C00937,Elena,Johnson,elena.johnson614@yahoo.com,+47-139-1228354,usa,2023/09/08,Consumer
+C00406,Wei,Zhang,WEI.ZHANG205@OUTLOOK.COM,+42-627-8187046,BRA,2024-11-27,CONSUMER
+C00273,Lucas,Lopez,lucas.lopez146 @yahoo.com,+92-935-4089229,IND,2022-09-09,Student
+C00589,JULIA,Garcia,julia.garcia466 @outlook.com,+30-352-2787488,ITA,,Student
+C00257,Olivia  ,SANTOS, olivia.santos475 @gmail.com,+90-272-2660519,ESP,2025-08-02,Consumer
+C00688,ROSA,  garcia ,rosa.garcia348 @yahoo.com,+3-437-4857678,CHN,2023-11-11,Consumer
+C00063,Mohammed,Martin,MOHAMMED.MARTIN163@OUTLOOK.COM,(472) 838-9332,GBR,2024-05-05,Small Business
+C00457,Luis,WANG,luis.wang86@outlook.com,1314175063,USA,2023-08-02,small business
+C00214,Liam,Johnson  ,liam.johnson958@outlook.com,(532) 226-6928,gbr,2025-10-09,
+C00813,James,Kim,,1318943812,JPN,2023-05-02,Student
+C00229,Maria, Reyes,MARIA.REYES704@COMPANY.COM,(421) 354-7730,GBR,2025-10-10,CONSUMER
+C00099,Olivia,Lee,olivia.lee180 @outlook.com,(670) 264-3348,CHN,NULL,
+C00907,CHEN,Brown,chen.brown177@outlook.com,7643436171,BGD,2023-05-30,  Corporate 
+C00880,Daniel,Zhang,,4009225996, KOR,2022-12-21,  Student 
+C00237,Luis,Silva,LUIS.SILVA635@YAHOO.COM,+19-649-8658687,ARE,06/03/2024,student
+C00871,LUIS,Brown,luis.brown875@gmail.com,7351667500,  ZAF ,09-27-2022,  Student 
+C00902,CHEN,SMITH,chen.smith979 @company.com,,ESP,2025-03-21,Consumer
+C00449,Kenji  , Garcia,KENJI.GARCIA707@OUTLOOK.COM,6889493881,IND,2025-07-22,NULL
+C00897,  Daniel ,MARTIN,daniel.martin976@yahoo.com,(864) 555-8409,POL,2024-11-06,Consumer
+C00285,PRIYA,Cruz,PRIYA.CRUZ449@OUTLOOK.COM,7107977395,USA,2023-03-01, CORPORATE
+C00654,CHEN,ALI,chen.ali5 @gmail.com,7610018828,COL,2025-04-23,Consumer
+C00455,Mohammed,ROSSI,mohammed.rossi386@outlook.com,(610) 538-7893,BRA,2024-10-04,Corporate
+C00203,james,Park,james.park41 @gmail.com,9025082374,BRA,2025-07-12,Small Business
+C00004,Olivia  ,li  ,olivia.li623 @company.com,(502) 203-4602,IND,2023-07-22,Small Business  
+C00554,Isabel,tanaka,ISABEL.TANAKA204@OUTLOOK.COM,(446) 359-7183,,"Nov 14, 2022",consumer
+C00253,LUCAS,IBRAHIM,lucas.ibrahim292 @gmail.com,N/A, IDN,2025-08-10,Consumer
+C00824, KENJI,,kenji.garcia396@outlook.com,+25-183-7967827,CHN,2025/06/13,Corporate  
+C00792,Lucas  ,ali,lucas.ali365 @yahoo.com,4974684170,EGY,2023-10-20,Small Business
+C00806,Julia,Sato,julia.sato438@yahoo.com,4056317895,CHN,2023/10/28, Student
+C00573,Olivia,SHARMA,olivia.sharma961 @gmail.com  ,NULL,AUS,2023-06-11,Corporate
+C00558, LUIS,Johnson,luis.johnson852 @gmail.com,2958147674,,NULL,Small Business
+C00613,Isabel,Reyes,isabel.reyes802@outlook.com,5876667885,KOR,2025-08-07,Small Business
+C00732,YUKI,ibrahim,YUKI.IBRAHIM713@YAHOO.COM,NULL,pol,2025-05-18,Small Business
+C00277,James,Santos,james.santos983@outlook.com,1871944076,IND,2025-08-28,consumer
+C00309,CHEN,Zhang,chen.zhang762@outlook.com,+78-308-1614835,che,2022-10-19, Corporate
+C00557,Ethan,Zhang,ETHAN.ZHANG743@COMPANY.COM,+6-700-6091391,FRA,2024-01-14,Small Business
+C00863,Fatima, Santos,N/A,4304924750,ZAF,2025-03-20,Consumer
+C00460,Lucas,Cruz,lucas.cruz184@yahoo.com  ,4869913062,JPN,2022-06-13,Student
+C00077,Emma,JOHNSON,  emma.johnson48@company.com ,3735272426,CAN,15/12/2022,corporate
+C00238,Olivia,Ivanov,olivia.ivanov239@gmail.com,+84-331-8541869,PRT,2024-08-11,Corporate
+C00640,Fatima,Hassan,FATIMA.HASSAN875@GMAIL.COM,(627) 787-5334,CAN,2023-06-01,Corporate
+C00230,julia,Lopez,julia.lopez306 @outlook.com,8684460654,PHL,2025-06-05,Small Business
+C00507,null,KIM,yuki.kim752 @yahoo.com,+86-784-1517029,PHL,04/12/2022,Student
+C00070,maria,KHAN  ,maria.khan58 @outlook.com,+20-703-6013965,PAK,2024-01-18,Consumer
+C00458,Priya,cruz,N/A,+46-267-8180149,GHA,2023-12-25,Corporate
+C00215,Carlos,Lopez,carlos.lopez881 @outlook.com,(160) 227-1276,CAN,12-11-2024,Small Business
+C00611,CHEN,Silva,chen.silva796 @company.com,+80-838-4813147,AUS,02-06-2025,Corporate
+C00830,Sofia,reyes,sofia.reyes162@company.com,1610783617, TWN,01/12/2022,Corporate
+C00909,Emma, Hassan, emma.hassan492 @outlook.com,+14-101-8054268,GRC,10-22-2024,Small Business
+C00007,Elena,Sato,elena.sato111 @outlook.com,(142) 693-9520,USA,2024/05/11,  Student 
+C00529,EMMA  ,SATO,emma.sato361 @company.com,+35-672-6697547,  GBR ,"Jan 26, 2024",Consumer
+C00056, Isabel,li,isabel.li553@yahoo.com,N/A,AUS,2025-12-22,Consumer
+C00666, Liam,ali,liam.ali342@yahoo.com,2903965076,ZAF,2024-07-20,  small business 
+C00385,Noah,Khan,noah.khan959@company.com,5996622346,N/A,2025-02-28,Consumer
+C00144,CARLOS,Zhang,CARLOS.ZHANG729@OUTLOOK.COM,3515223769,UKR,2025/08/03,Corporate
+C00191,Chen,  Sharma ,chen.sharma326 @yahoo.com,2387371777,BRA  ,2022-09-17,Small Business
+C00568,Mohammed,Lee,mohammed.lee188 @outlook.com,(341) 877-8114,USA,2023-06-27,Small Business
+C00759,Lucas  ,Brown,lucas.brown25 @gmail.com,+98-165-5723605,GRC,11/03/2025,Small Business  
+C00836,Raj,Li,raj.li635 @yahoo.com,(794) 842-6469,IND,2024-08-15,Small Business
+C00435,Isabel,Silva  ,isabel.silva771 @gmail.com,6189262181,CHN,2023-12-13,
+C00115,LIAM,Lopez,LIAM.LOPEZ304@GMAIL.COM,(566) 382-4240,KEN,07-05-2022,Student
+C00231,Chen,muller,chen.muller624 @gmail.com,+90-396-1909197,SGP,2023-06-18,Corporate
+C00127,aisha,Santos,AISHA.SANTOS389@OUTLOOK.COM  ,2908812198,ARG,2022-09-08,student
+C00174,elena  ,ivanov,elena.ivanov577@gmail.com,+6-665-1660619,MYS,05/07/2022,corporate  
+C00633,Yuki,Brown,yuki.brown5@gmail.com,5256511661,COL,2023-12-23,Small Business
+C00919,N/A,Ali,sofia.ali87 @yahoo.com,+34-799-9419810,ind,2024-09-25,Student
+C00211,N/A,Li  ,mei.li198 @gmail.com,+7-748-3532214,FRA,2023-03-13,consumer
+C00532, Ethan,MILLER,ethan.miller284 @company.com,,AUT,2024-06-10,Corporate
+C00451,Elena,Silva,NULL,(881) 318-4631,CAN,06-07-2023,Small Business
+C00900, Lucas,Muller,lucas.muller687@gmail.com,(457) 820-3105,KOR,2024-05-08,student
+C00576,Ahmed,Li,ahmed.li78 @gmail.com,9050856851,FRA,2023-09-16,N/A
+C00362,  Noah ,  cruz ,NOAH.CRUZ650@COMPANY.COM  ,(158) 632-6464,IDN,13/06/2025,Student
+C00540,Mei,Ivanov,mei.ivanov3 @company.com,(479) 170-3509,USA  ,2023-05-05,Student
+C00013,NULL,LOPEZ,NOAH.LOPEZ29@OUTLOOK.COM,+93-569-5645678,DEU,07/04/2023,Small Business
+C00492,Carlos,Sharma  ,CARLOS.SHARMA630@GMAIL.COM,+42-553-4654600,AUS,NULL,Small Business
+C00255,LIAM,Ivanov,liam.ivanov321 @outlook.com,+20-324-4713173, ITA,2024-10-11,CORPORATE
+C00108,lucas,Lopez,LUCAS.LOPEZ205@GMAIL.COM,4033423665,CAN,2023-03-22,Corporate
+C00854,Yuki,Hassan,yuki.hassan556 @company.com,(317) 677-8706,DNK,2023-07-04,Corporate
+C00851, Fatima,Cruz,FATIMA.CRUZ765@YAHOO.COM,9083977480,JPN,2025-04-22,Consumer
+C00599,Ethan,Tanaka,ethan.tanaka151  @yahoo.com,4914902749,CHL,2023-05-05,Student
+C00303,ELENA,Ivanov,elena.ivanov297 @gmail.com,(412) 782-9861,GBR,2023-01-04,CORPORATE
+C00312,yuki,Davis,YUKI.DAVIS954@OUTLOOK.COM,+66-895-9668834,JPN,2024-04-03,Corporate
+C00590,Wei,MARTIN,wei.martin662@gmail.com,6006830716,DEU,2025-05-03,Student
+C00737,James, Zhang, james.zhang121 @gmail.com,null,USA,2022-09-10,student
+C00783,luis,Garcia,luis.garcia75@yahoo.com,6456357423,deu,02/12/2024,Corporate
+C00776,CARLOS,Hassan,carlos.hassan736@yahoo.com,+18-552-8046413,NOR,2023/09/13,student
+C00787,Hiro,cruz,hiro.cruz725  @company.com,5583024726,ESP,2025-10-20,Student
+C00061,isabel,Davis,ISABEL.DAVIS340@YAHOO.COM,4069888953,NZL,2024-08-27,  Student 
+C00486,Fatima,Khan,fatima.khan320@yahoo.com,+80-979-6546744,ITA,2023-05-08,  Student 
+C00825,fatima, IVANOV,FATIMA.IVANOV910@GMAIL.COM,,VNM,2022-06-29,student
+C00881,James,Santos  , JAMES.SANTOS114@YAHOO.COM,(683) 837-1385,GHA,2024-09-11,Corporate
+C00721,LIAM,silva,liam.silva81 @gmail.com,+28-684-8271733,SGP,2025-04-28,Consumer
+C00908,Chen,Silva,chen.silva510@gmail.com,+95-610-5464125,can,2022-06-21, Small Business
+C00330,Sofia,Nguyen,null,null,CAN,2022-12-02,CONSUMER
+C00771,Anna,Smith,ANNA.SMITH949@COMPANY.COM,6071643873,HKG,2024-08-08,Consumer
+C00537,Ahmed,Hassan,AHMED.HASSAN811@YAHOO.COM,+11-923-9491800,BRA  ,2023-08-23,Student
+C00256,emma  ,JOHNSON,emma.johnson523@outlook.com,1799156163,ZAF,06-02-2023,Corporate
+C00805,Fatima,LEE,FATIMA.LEE218@OUTLOOK.COM,(800) 939-1079,FRA,22/04/2023,Consumer
+C00496,Ahmed,garcia,ahmed.garcia990 @company.com,+14-284-4635481,GBR  ,"Feb 13, 2024",  Student 
+C00572,  Raj ,tanaka, RAJ.TANAKA884@GMAIL.COM,3468100218,CHN  ,2024-02-29,Student
+C00035,Yuki,Miller, yuki.miller897 @yahoo.com,+91-441-6917334,usa,2023-09-13,Small Business
+C00929,Chen,SATO  ,chen.sato64@outlook.com,+24-772-4554947,jpn,2024-09-16,Student
+C00813,James,Kim,,1318943812,JPN,2023-05-02,Student
+C00877,chen,Patel,chen.patel934 @yahoo.com,+72-897-6615913,MAR,2023-02-09, Student
+C00234,Mohammed,Lopez,MOHAMMED.LOPEZ127@YAHOO.COM,+37-767-8838718,NLD,2025-03-03,Consumer
+C00186,Isabel, Lee,isabel.lee371@yahoo.com,7159619661,MEX,2023-11-27,Student
+C00130,aisha,Hassan,aisha.hassan41 @yahoo.com,1917237744,phl,2022-10-24,Corporate  
+C00747, Olivia,sato  , olivia.sato781 @gmail.com,(224) 296-4577,null,2024-04-28,Consumer
+C00843, Mohammed,KIM,,+40-885-9787251,ZAF,2024-04-30,CORPORATE
+C00143,Olivia,CRUZ,olivia.cruz409 @company.com,+7-458-8802905,ITA,2025-02-06,Small  Business
+C00217,Grace  ,KHAN  ,grace.khan152@gmail.com,5160858303,DEU,29/08/2024,CONSUMER
+C00175,emma,Khan,emma.khan887 @company.com,(835) 882-4075,NOR,2023-03-17,Small Business
+C00357,  Fatima ,Miller,fatima.miller936@gmail.com,+20-929-7278697,GHA,2022-08-08,Small Business
+C00898,Lucas,ALI,lucas.ali799@outlook.com,7952576083,chn,09-07-2025,Small Business
+C00750,Elena,Santos,ELENA.SANTOS909@OUTLOOK.COM,(200) 295-2009,nld  ,05-28-2025,Corporate
+C00729,Luis,SMITH,,,GBR,2025-06-30,Corporate  
+C00296,Maria,Ali,maria.ali168 @outlook.com,+79-557-3574031,MEX,2023-05-11,Small Business
+C00833,Priya,Kim, priya.kim694@gmail.com,7286875518,CHN,2024-04-08,Small Business
+C00795,Ethan  ,Zhang,ethan.zhang278@company.com,(231) 430-4941, UKR,"Mar 09, 2025",SMALL BUSINESS
+C00853,NULL,CRUZ,elena.cruz70 @yahoo.com,(691) 400-3720,GBR,11-24-2025,Consumer
+C00538, Raj,rossi,RAJ.ROSSI268@OUTLOOK.COM,(149) 744-6451,JPN,2025-08-18,Corporate
+C00286,Daniel,khan,daniel.khan221 @yahoo.com,2833384789,JPN,"Aug 06, 2023",Corporate
+C00591,Daniel,brown,,(420) 687-6078,deu,"May 16, 2025",Consumer
+C00415,Daniel,Wang,DANIEL.WANG329@COMPANY.COM,+34-663-9585344,IDN,2025-09-28,Consumer
+C00267,Olivia,Kim,olivia.kim395@gmail.com,9100870512,esp,2022-07-08,Consumer
+C00890,,REYES,wei.reyes177 @company.com,,GBR,"Sep 26, 2022",Student  
+C00183,MOHAMMED,Zhang,mohammed.zhang987@gmail.com,(147) 317-4829, KOR,2024-12-11,Consumer
+C00046,liam,MARTIN,liam.martin518 @company.com,+60-190-2950547, TUR,2022-06-22,Consumer
+C00693,Mohammed,patel,MOHAMMED.PATEL146@COMPANY.COM  ,+47-332-4809797,IND,02/09/2022,Small Business
+C00784,Carlos,Ibrahim,CARLOS.IBRAHIM52@YAHOO.COM,4662039319,CHE,22/06/2024,null
+C00368,ethan,reyes,ETHAN.REYES507@YAHOO.COM  ,(686) 361-8350,DNK,2025-06-02,Corporate
+C00382,Isabel,Sharma,ISABEL.SHARMA841@YAHOO.COM,6099376282,POL,29/10/2023,Consumer
+C00193,Priya,Rossi,priya.rossi419 @gmail.com,+16-564-9024898,USA,2022-07-02,CORPORATE
+C00337,Sofia,Ivanov,sofia.ivanov464@gmail.com,(622) 976-5416,KOR  ,2022-10-02,Consumer
+C00487,Priya,Ivanov,priya.ivanov928 @yahoo.com,(917) 718-2324,THA,2024-02-14,Corporate
+C00031,Daniel,JOHNSON,DANIEL.JOHNSON750@COMPANY.COM,,KOR,2025-04-16, Small Business
+C00110,Lucas,Sharma,LUCAS.SHARMA621@GMAIL.COM,9773327464,MEX,2025-01-07, Student
+C00052,  ELENA ,Lee,ELENA.LEE80@YAHOO.COM,+62-135-5379180,DNK,2024-09-06,small business
+C00213,Priya,Ivanov  ,priya.ivanov641@yahoo.com,+90-967-7152661,CHN,2025-09-07,Consumer
+C00672,  Hiro ,  Zhang ,HIRO.ZHANG1@YAHOO.COM,+38-310-7956373,SAU,27/09/2024,small business
+C00153,Mei,Zhang,mei.zhang518@outlook.com,+93-705-5868635,CHN,"Oct 02, 2024",Corporate
+C00076,ROSA  , Tanaka,rosa.tanaka182 @gmail.com,+21-529-3892727,NLD,2023-11-26,
+C00652,Anna,Silva,anna.silva750 @gmail.com,(316) 735-2873,CHN,29/04/2025,Corporate
+C00910,Yuki,ali,yuki.ali837@company.com,+56-274-9422139,che,2024-01-12,corporate
+C00676,Fatima,Nguyen,fatima.nguyen454@outlook.com,+78-939-7765860, SGP,2025-04-13,Student
+C00105,Luis,SHARMA  ,  luis.sharma581@outlook.com ,+86-301-6380429,IND,2023-10-31,Consumer
+C00107,Olivia  ,Wang,olivia.wang936@company.com,NULL,USA,2025/12/04,Small Business  
+C00329,Mohammed,Garcia,mohammed.garcia52 @company.com,7615677462,POL,2025-05-16,corporate
+C00246, ELENA,Lee,elena.lee556@outlook.com,(290) 537-2324,SAU,2024-11-19,CORPORATE
+C00088,james, cruz,james.cruz230 @yahoo.com,(968) 631-7547,POL,2024-06-15,Small Business
+C00153,Mei,Zhang,mei.zhang518@outlook.com,+93-705-5868635,CHN,"Oct 02, 2024",Corporate
+C00597,Fatima,Li,fatima.li144 @yahoo.com,(162) 370-5299,ESP,2025/12/08,Small Business
+C00131,Wei,Miller,wei.miller169@yahoo.com,(720) 956-4681,USA,10/09/2024,Corporate
+C00074,Sofia,JOHNSON, SOFIA.JOHNSON278@YAHOO.COM,+95-313-7382330,  JPN ,03/04/2025,consumer
+C00927,Julia,park,julia.park118 @yahoo.com,7847163101,N/A,2023-12-29,Student
+C00804, LIAM,garcia,liam.garcia190@company.com,NULL,USA,2022-07-23, small business

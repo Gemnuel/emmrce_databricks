@@ -1,0 +1,51 @@
+country_code,country_name,region,currency_code
+TWN,Taiwan  ,Asia,TWD
+KEN,Kenya,Africa,KES
+GHA,  GHANA ,Africa,GHS
+IDN,Indonesia,Asia,IDR
+isr,Israel,Middle East,ILS
+ARE  ,United Arab Emirates,Middle East,AED
+HKG, Hong Kong,Asia,HKD
+ ESP,Spain,Europe,EUR
+ARG, ARGENTINA,South America,ARS
+RUS,Russia,Europe,RUB
+NOR,Norway,Europe,NOK
+CHE,Switzerland,,CHF
+TUR,Turkey  ,Europe,TRY
+CHN, China,Asia,NULL
+IRL, Ireland,Europe,EUR
+CAN  , Canada,North America,CAD
+NLD,Netherlands,Europe,EUR
+ BRA,Brazil,South America,BRL
+SGP,Singapore,Asia,SGD
+NZL, New Zealand,Oceania,NZD
+GBR,  UNITED KINGDOM ,Europe,GBP
+JPN, Japan,Asia,JPY
+PRT,portugal  ,Europe,EUR
+bgd,Bangladesh,Asia,BDT
+MAR,Morocco,Africa,MAD
+MYS,Malaysia,Asia,MYR
+ USA,  United States ,North America,USD
+ZAF,South Africa,Africa,ZAR
+CHL,Chile,South America,CLP
+PAK  ,Pakistan,Asia,PKR
+PHL,  philippines ,Asia,PHP
+ITA,Italy,Europe,EUR
+AUT,Austria,Europe,EUR
+GRC,  Greece ,Europe,EUR
+VNM,VIETNAM,Asia,VND
+NGA,Nigeria,Africa,NGN
+COL,Colombia,South America,COP
+pol,Poland,Europe,PLN
+SWE,Sweden,Europe,SEK
+KOR,SOUTH KOREA,Asia,KRW
+AUS,Australia  ,Oceania,AUD
+ DNK,DENMARK,Europe,DKK
+UKR,Ukraine,Europe,UAH
+MEX,Mexico,North America,MXN
+DEU,  Germany ,Europe,EUR
+THA  ,Thailand,Asia,THB
+FRA,france,Europe,EUR
+SAU,Saudi Arabia,Middle East,SAR
+EGY,Egypt,Africa,EGP
+IND,India,Asia,INR
